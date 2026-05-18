@@ -38,3 +38,19 @@ Top-level fields: `schema_version`, `generated_at`, `scoring_version`, `posts[]`
 ## Source
 
 The ingestion pipeline and full architecture live in the private source repo `PMQ9/ccc-marcomms-agent-v3`, under `relevance_feed/`.
+
+## Maintenance
+
+The publishing cron in `ccc-marcomms-agent-v3` force-pushes to this repo using a fine-grained Personal Access Token. To rotate it:
+
+1. Create a fine-grained PAT at [github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens), scoped to this repository.
+
+   ![Create PAT](docs/pat-create.png)
+
+2. Grant **Contents: Read and write** permission.
+
+   ![Set permission](docs/pat-permissions.png)
+
+3. Add the new PAT as a secret in `ccc-marcomms-agent-v3`.
+
+   ![Add PAT to source repo](docs/pat-add-secret.png)
