@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-18T20:43:32.568912Z",
+  "generated_at": "2026-05-18T21:25:01.390974Z",
   "scoring_version": "1.2",
   "posts": [
     {
@@ -14,7 +14,7 @@
       "excerpt": "Vanderbilt University\u2019s College of Connected Computing (CCC) welcomed students, innovators and changemakers for the second annual Global Good Hackathon, held March 28\u201329. Building on the momentum of its inaugural year, the event brought together 21 teams dedicated to developing technology-driven solutions that address pressing social challenges. The hackathon continues to grow as a platform for [&#8230;]",
       "author": "moakc",
       "posted_at": "2026-04-30T15:33:15Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 1.0,
       "raw_score": 1.0,
       "components": {
@@ -48,7 +48,7 @@
       "excerpt": "Vanderbilt faculty like Associate Dean for Research Abhishek Dubey are on the leading edge of investigation and development of AI. Dubey, also director of the SCOPE lab, develops advanced AI-driven frameworks and decision-making methods to improve public safety, transportation and infrastructure. Read more about Dubey, his research and his commitment to connecting academia and industry for the advancement of society.",
       "author": "Reagan Villet",
       "posted_at": "2026-04-24T17:21:04Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -77,7 +77,7 @@
       "excerpt": "Daniel Huddleston, BA\u201994 has translated eight Japanese science fiction novels.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T15:34:08Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -100,7 +100,7 @@
       "excerpt": "Cornelius Vanderbilt, whose $1 million gift established the university in 1873, earned the nickname \u201cthe Commodore\u201d while building a vast transportation empire that included ships and railroads. The university\u2019s athletes were nicknamed the Commodores as early as 1898 by newspaperman and football alumnus William E. Beard. In a 1915 Tennessee American cartoon after Vanderbilt\u2019s gridiron [&#8230;]",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:46Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -123,7 +123,7 @@
       "excerpt": "Late in 2025, Jennifer and Marc Lipschultz committed a landmark collection of nearly 5,000 photographs to the Vanderbilt University Museum of Art.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:38Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -146,7 +146,7 @@
       "excerpt": "Corey and Michelle Harris' gift for Pre-Vet Students, Athletics and Campus Life was inspired by their daughter's journey.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:38Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -169,7 +169,7 @@
       "excerpt": "By Jennifer Kiilerich Tatiana Peredo, research assistant professor of special education at Vanderbilt Peabody College of education and human development, has been selected for a Fulbright U.S. Scholar award to Chile for the 2026\u201327 academic year. It is Peredo\u2019s second time receiving the renowned federal award, which aims to promote innovation globally and build relationships [&#8230;]",
       "author": "Jennifer Kiilerich-Hansen",
       "posted_at": "2026-05-18T12:00:41Z",
-      "fetched_at": "2026-05-18T20:43:32.568912Z",
+      "fetched_at": "2026-05-18T21:25:01.390974Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -185,47 +185,47 @@
   "linkedin_saved_searches": [],
   "collector_status": {
     "vu_news_ccc": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
-      "last_success_with_results": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
+      "last_success_with_results": "2026-05-18T21:25:01.390974Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 168.0
     },
     "vu_news": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
-      "last_success_with_results": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
+      "last_success_with_results": "2026-05-18T21:25:01.390974Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "computing_vanderbilt": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
-      "last_success_with_results": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
+      "last_success_with_results": "2026-05-18T21:25:01.390974Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_ccc": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
-      "last_success_with_results": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
+      "last_success_with_results": "2026-05-18T21:25:01.390974Z",
       "ok": true,
       "error": "",
       "posts_fetched": 23,
       "expected_max_silence_hours": 168.0
     },
     "google_news_amplify": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
-      "last_success_with_results": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
+      "last_success_with_results": "2026-05-18T21:25:01.390974Z",
       "ok": true,
       "error": "",
       "posts_fetched": 7,
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_ccc": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
       "last_success_with_results": null,
       "ok": false,
       "error": "no_url_configured",
@@ -233,7 +233,7 @@
       "expected_max_silence_hours": 72.0
     },
     "talkwalker_alerts_ccc": {
-      "last_run": "2026-05-18T20:43:32.568912Z",
+      "last_run": "2026-05-18T21:25:01.390974Z",
       "last_success_with_results": null,
       "ok": false,
       "error": "no_url_configured",
