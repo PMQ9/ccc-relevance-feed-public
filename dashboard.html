@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>CCC Relevance Feed 2026-05-18T22:37:00.010033Z</title>
+<title>CCC Relevance Feed 2026-05-18T23:00:16.139586Z</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   /*
@@ -62,6 +62,31 @@
     padding: 4px 8px; font-size: 12px; width: 200px;
   }
   main { padding: 16px 24px; max-width: 1200px; margin: 0 auto; }
+
+  .info-bar {
+    background: var(--panel); border: 1px solid var(--row-border); border-radius: 6px;
+    padding: 12px 16px; margin-bottom: 16px;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    column-gap: 16px; row-gap: 6px;
+    font-size: 13px;
+  }
+  .info-bar .lbl {
+    color: var(--text-dim); font-size: 11px; text-transform: uppercase;
+    letter-spacing: 0.5px; align-self: center;
+  }
+  .info-bar .val { color: var(--text); }
+  .info-bar .sources-list {
+    display: flex; flex-wrap: wrap; gap: 6px 12px;
+  }
+  .info-bar .src {
+    background: var(--panel-2); border: 1px solid var(--row-border);
+    padding: 2px 8px; border-radius: 3px; font-size: 11px;
+    color: var(--text); display: inline-flex; gap: 6px; align-items: baseline;
+  }
+  .info-bar .src .age { color: var(--text-dim); font-size: 10px; }
+  .info-bar .src.stale { border-color: var(--bad); }
+  .info-bar .src.stale .age { color: var(--bad); }
 
   .freshness-banner {
     background: rgba(239, 68, 68, 0.12);
@@ -186,6 +211,7 @@
   </div>
 </header>
 <main>
+  <div class="info-bar"><span class="lbl">Last updated</span><span class="val">2026-05-18 23:00 UTC</span><span class="lbl">Next update</span><span class="val">2026-05-18 23:30 UTC (Mon)</span><span class="lbl">Sources (24)</span><span class="val"><div class="sources-list"><span class="src"><code>computing_vanderbilt</code><span class="age">0m ago</span></span><span class="src stale"><code>google_alerts_amplify_genai</code><span class="age">never</span></span><span class="src"><code>google_alerts_connected_computing</code><span class="age">0m ago</span></span><span class="src stale"><code>google_alerts_matthew_johnson_roberson</code><span class="age">never</span></span><span class="src stale"><code>google_alerts_vanderbilt</code><span class="age">never</span></span><span class="src"><code>google_news_amplify</code><span class="age">0m ago</span></span><span class="src"><code>google_news_ccc</code><span class="age">0m ago</span></span><span class="src stale"><code>talkwalker_abhishek_dubey</code><span class="age">never</span></span><span class="src"><code>talkwalker_amplify_genai</code><span class="age">0m ago</span></span><span class="src stale"><code>talkwalker_amplify_innovation_center</code><span class="age">never</span></span><span class="src stale"><code>talkwalker_college_of_connected_computing</code><span class="age">never</span></span><span class="src"><code>talkwalker_connected_computing</code><span class="age">0m ago</span></span><span class="src stale"><code>talkwalker_data_science_institute</code><span class="age">never</span></span><span class="src stale"><code>talkwalker_ds_minor</code><span class="age">never</span></span><span class="src stale"><code>talkwalker_genai_minor</code><span class="age">never</span></span><span class="src stale"><code>talkwalker_jesse_spencer_smith</code><span class="age">never</span></span><span class="src stale"><code>talkwalker_jules_white</code><span class="age">never</span></span><span class="src"><code>talkwalker_matthew_johnson_roberson</code><span class="age">0m ago</span></span><span class="src stale"><code>talkwalker_padma_raghavan</code><span class="age">never</span></span><span class="src"><code>talkwalker_vanderbilt</code><span class="age">0m ago</span></span><span class="src"><code>talkwalker_vanderbilt_and_cc</code><span class="age">0m ago</span></span><span class="src stale"><code>talkwalker_vanderbilt_ccc</code><span class="age">never</span></span><span class="src"><code>vu_news</code><span class="age">0m ago</span></span><span class="src"><code>vu_news_ccc</code><span class="age">0m ago</span></span></div></span></div>
   <div class="freshness-banner"><div class="title">Stale collectors</div><ul><li><code>google_alerts_amplify_genai</code>: last result never (budget 168h)</li><li><code>google_alerts_matthew_johnson_roberson</code>: last result never (budget 168h)</li><li><code>google_alerts_vanderbilt</code>: last result never (budget 24h)</li><li><code>talkwalker_abhishek_dubey</code>: last result never (budget 336h)</li><li><code>talkwalker_amplify_innovation_center</code>: last result never (budget 336h)</li><li><code>talkwalker_college_of_connected_computing</code>: last result never (budget 168h)</li><li><code>talkwalker_data_science_institute</code>: last result never (budget 336h)</li><li><code>talkwalker_ds_minor</code>: last result never (budget 336h)</li><li><code>talkwalker_genai_minor</code>: last result never (budget 336h)</li><li><code>talkwalker_jesse_spencer_smith</code>: last result never (budget 336h)</li><li><code>talkwalker_jules_white</code>: last result never (budget 336h)</li><li><code>talkwalker_padma_raghavan</code>: last result never (budget 336h)</li><li><code>talkwalker_vanderbilt_ccc</code>: last result never (budget 336h)</li></ul></div>
   <div class="summary">
     <div class="stat"><span class="n">11</span><span class="lbl">total visible</span></div>
@@ -473,7 +499,7 @@
 
 </div></div>
   <div class="footer">
-    Generated 2026-05-18T22:37:00.010033Z from a published FeedSnapshot (schema 1.0). Scoring version: 1.2.
+    Generated 2026-05-18T23:00:16.139586Z from a published FeedSnapshot (schema 1.0). Scoring version: 1.2.
     Threshold and dismiss state are local to this view; promote copies a JSON payload for paste into the marcomms_hootsuite skill.
   </div>
 </main>
