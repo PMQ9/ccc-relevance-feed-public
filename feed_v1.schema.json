@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/PMQ9/ccc-relevance-feed-public/main/feed_v1.schema.json",
+  "title": "CCC Relevance Feed v1",
+  "description": "Published feed contract. Backward-compatible (additive-only) within v1.x. Consumers must tolerate unknown fields.",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "scoring_version", "posts"],
+  "additionalProperties": true,
+  "properties": {
+    "schema_version": {"type": "string", "const": "1.0"},
+    "generated_at": {"type": "string", "format": "date-time"},
+    "scoring_version": {"type": "string"},
+    "posts": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/ScoredPost"}
+    },
+    "linkedin_saved_searches": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/SavedSearchCard"}
+    },
+    "collector_status": {
+      "type": "object",
+      "additionalProperties": {"$ref": "#/$defs/CollectorRunStatus"}
+    }
+  },
+  "$defs": {
+    "ScoredPost": {
+      "type": "object",
+      "required": ["id", "source", "platform", "url", "canonical_url", "title", "score", "components", "matched_entities", "fetched_at", "scoring_version"],
+      "additionalProperties": true,
+      "properties": {
+        "id": {"type": "string", "minLength": 16, "maxLength": 16},
+        "source": {"type": "string"},
+        "source_tier": {"type": "integer", "minimum": 0},
+        "platform": {"type": "string"},
+        "url": {"type": "string"},
+        "canonical_url": {"type": "string"},
+        "title": {"type": "string"},
+        "excerpt": {"type": "string"},
+        "author": {"type": "string"},
+        "posted_at": {"type": ["string", "null"], "format": "date-time"},
+        "fetched_at": {"type": "string", "format": "date-time"},
+        "score": {"type": "number", "minimum": 0, "maximum": 1},
+        "raw_score": {"type": "number"},
+        "components": {"$ref": "#/$defs/ScoreComponents"},
+        "matched_entities": {
+          "type": "array",
+          "items": {"$ref": "#/$defs/MatchedEntity"}
+        },
+        "scoring_version": {"type": "string"}
+      }
+    },
+    "ScoreComponents": {
+      "type": "object",
+      "required": ["entity_score", "source_bonus", "recency_bonus", "cooccurrence_bonus"],
+      "additionalProperties": true,
+      "properties": {
+        "entity_score": {"type": "number"},
+        "source_bonus": {"type": "number"},
+        "recency_bonus": {"type": "number"},
+        "cooccurrence_bonus": {"type": "number"}
+      }
+    },
+    "MatchedEntity": {
+      "type": "object",
+      "required": ["entity", "weight", "kind"],
+      "additionalProperties": true,
+      "properties": {
+        "entity": {"type": "string"},
+        "weight": {"type": "number"},
+        "kind": {"type": "string"}
+      }
+    },
+    "SavedSearchCard": {
+      "type": "object",
+      "required": ["label", "url"],
+      "additionalProperties": true,
+      "properties": {
+        "label": {"type": "string"},
+        "url": {"type": "string"},
+        "description": {"type": "string"}
+      }
+    },
+    "CollectorRunStatus": {
+      "type": "object",
+      "required": ["last_run", "ok"],
+      "additionalProperties": true,
+      "properties": {
+        "last_run": {"type": "string", "format": "date-time"},
+        "last_success_with_results": {"type": ["string", "null"], "format": "date-time"},
+        "ok": {"type": "boolean"},
+        "error": {"type": "string"},
+        "posts_fetched": {"type": "integer", "minimum": 0},
+        "expected_max_silence_hours": {"type": ["number", "null"]}
+      }
+    }
+  }
+}

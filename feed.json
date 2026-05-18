@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-18T20:40:15.740592Z",
+  "scoring_version": "1.2",
+  "posts": [
+    {
+      "id": "f960632b243da3db",
+      "source": "computing_vanderbilt",
+      "source_tier": 1,
+      "platform": "web",
+      "url": "https://computing.vanderbilt.edu/2026/04/30/vanderbilt-hosts-second-annual-global-good-hackathon-focused-on-social-impact/",
+      "canonical_url": "https://computing.vanderbilt.edu/2026/04/30/vanderbilt-hosts-second-annual-global-good-hackathon-focused-on-social-impact",
+      "title": "Vanderbilt Hosts Second Annual Global Good Hackathon Focused on Social Impact",
+      "excerpt": "Vanderbilt University\u2019s College of Connected Computing (CCC) welcomed students, innovators and changemakers for the second annual Global Good Hackathon, held March 28\u201329. Building on the momentum of its inaugural year, the event brought together 21 teams dedicated to developing technology-driven solutions that address pressing social challenges. The hackathon continues to grow as a platform for [&#8230;]",
+      "author": "moakc",
+      "posted_at": "2026-04-30T15:33:15Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 1.0,
+      "raw_score": 1.0,
+      "components": {
+        "entity_score": 0.8,
+        "source_bonus": 0.15,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        },
+        {
+          "entity": "Global Good Hackathon",
+          "weight": 0.3,
+          "kind": "person_or_program"
+        }
+      ],
+      "scoring_version": "1.2"
+    },
+    {
+      "id": "b56d29323297d492",
+      "source": "vu_news_ccc",
+      "source_tier": 1,
+      "platform": "vu_news",
+      "url": "https://computing.vanderbilt.edu/2026/04/09/engineering-the-future-dubeys-journey-of-academic-and-entrepreneurial-success/#new_tab",
+      "canonical_url": "https://computing.vanderbilt.edu/2026/04/09/engineering-the-future-dubeys-journey-of-academic-and-entrepreneurial-success",
+      "title": "Abhishek Dubey is engineering the future",
+      "excerpt": "Vanderbilt faculty like Associate Dean for Research Abhishek Dubey are on the leading edge of investigation and development of AI. Dubey, also director of the SCOPE lab, develops advanced AI-driven frameworks and decision-making methods to improve public safety, transportation and infrastructure. Read more about Dubey, his research and his commitment to connecting academia and industry for the advancement of society.",
+      "author": "Reagan Villet",
+      "posted_at": "2026-04-24T17:21:04Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 0.35,
+      "raw_score": 0.35,
+      "components": {
+        "entity_score": 0.3,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "Abhishek Dubey",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        }
+      ],
+      "scoring_version": "1.2"
+    },
+    {
+      "id": "924f06b73e0c952d",
+      "source": "vu_news",
+      "source_tier": 1,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2026/05/18/found-in-translation/",
+      "canonical_url": "https://news.vanderbilt.edu/2026/05/18/found-in-translation",
+      "title": "Found in Translation",
+      "excerpt": "Daniel Huddleston, BA\u201994 has translated eight Japanese science fiction novels.",
+      "author": "Vanderbilt Communications and Marketing",
+      "posted_at": "2026-05-18T15:34:08Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 0.15,
+      "raw_score": 0.15,
+      "components": {
+        "entity_score": 0.0,
+        "source_bonus": 0.1,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [],
+      "scoring_version": "1.2"
+    },
+    {
+      "id": "629abca895c1a7b2",
+      "source": "vu_news",
+      "source_tier": 1,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2026/05/18/the-evolution-of-mr-c/",
+      "canonical_url": "https://news.vanderbilt.edu/2026/05/18/the-evolution-of-mr-c",
+      "title": "The Evolution of Mr. C",
+      "excerpt": "Cornelius Vanderbilt, whose $1 million gift established the university in 1873, earned the nickname \u201cthe Commodore\u201d while building a vast transportation empire that included ships and railroads. The university\u2019s athletes were nicknamed the Commodores as early as 1898 by newspaperman and football alumnus William E. Beard. In a 1915 Tennessee American cartoon after Vanderbilt\u2019s gridiron [&#8230;]",
+      "author": "Vanderbilt Communications and Marketing",
+      "posted_at": "2026-05-18T12:31:46Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 0.15,
+      "raw_score": 0.15,
+      "components": {
+        "entity_score": 0.0,
+        "source_bonus": 0.1,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [],
+      "scoring_version": "1.2"
+    },
+    {
+      "id": "770e79e98845ce64",
+      "source": "vu_news",
+      "source_tier": 1,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2026/05/18/an-eye-for-photography/",
+      "canonical_url": "https://news.vanderbilt.edu/2026/05/18/an-eye-for-photography",
+      "title": "An Eye for Photography",
+      "excerpt": "Late in 2025, Jennifer and Marc Lipschultz committed a landmark collection of nearly 5,000 photographs to the Vanderbilt University Museum of Art.",
+      "author": "Vanderbilt Communications and Marketing",
+      "posted_at": "2026-05-18T12:31:38Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 0.15,
+      "raw_score": 0.15,
+      "components": {
+        "entity_score": 0.0,
+        "source_bonus": 0.1,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [],
+      "scoring_version": "1.2"
+    },
+    {
+      "id": "97b674502b812be3",
+      "source": "vu_news",
+      "source_tier": 1,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2026/05/18/turning-passion-into-purpose/",
+      "canonical_url": "https://news.vanderbilt.edu/2026/05/18/turning-passion-into-purpose",
+      "title": "Turning Passion into Purpose",
+      "excerpt": "Corey and Michelle Harris' gift for Pre-Vet Students, Athletics and Campus Life was inspired by their daughter's journey.",
+      "author": "Vanderbilt Communications and Marketing",
+      "posted_at": "2026-05-18T12:31:38Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 0.15,
+      "raw_score": 0.15,
+      "components": {
+        "entity_score": 0.0,
+        "source_bonus": 0.1,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [],
+      "scoring_version": "1.2"
+    },
+    {
+      "id": "ea61b2b629ef3d7a",
+      "source": "vu_news",
+      "source_tier": 1,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2026/05/18/vanderbilt-scholar-awarded-fulbright-to-study-parent-child-reading-intervention-in-chile/",
+      "canonical_url": "https://news.vanderbilt.edu/2026/05/18/vanderbilt-scholar-awarded-fulbright-to-study-parent-child-reading-intervention-in-chile",
+      "title": "Vanderbilt scholar awarded Fulbright to study parent-child reading intervention in Chile",
+      "excerpt": "By Jennifer Kiilerich Tatiana Peredo, research assistant professor of special education at Vanderbilt Peabody College of education and human development, has been selected for a Fulbright U.S. Scholar award to Chile for the 2026\u201327 academic year. It is Peredo\u2019s second time receiving the renowned federal award, which aims to promote innovation globally and build relationships [&#8230;]",
+      "author": "Jennifer Kiilerich-Hansen",
+      "posted_at": "2026-05-18T12:00:41Z",
+      "fetched_at": "2026-05-18T20:40:15.740592Z",
+      "score": 0.15,
+      "raw_score": 0.15,
+      "components": {
+        "entity_score": 0.0,
+        "source_bonus": 0.1,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [],
+      "scoring_version": "1.2"
+    }
+  ],
+  "linkedin_saved_searches": [],
+  "collector_status": {
+    "vu_news_ccc": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": "2026-05-18T20:40:15.740592Z",
+      "ok": true,
+      "error": "",
+      "posts_fetched": 20,
+      "expected_max_silence_hours": 168.0
+    },
+    "vu_news": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": "2026-05-18T20:40:15.740592Z",
+      "ok": true,
+      "error": "",
+      "posts_fetched": 20,
+      "expected_max_silence_hours": 24.0
+    },
+    "computing_vanderbilt": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": "2026-05-18T20:40:15.740592Z",
+      "ok": true,
+      "error": "",
+      "posts_fetched": 10,
+      "expected_max_silence_hours": 336.0
+    },
+    "google_news_ccc": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": "2026-05-18T20:40:15.740592Z",
+      "ok": true,
+      "error": "",
+      "posts_fetched": 23,
+      "expected_max_silence_hours": 168.0
+    },
+    "google_news_amplify": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": "2026-05-18T20:40:15.740592Z",
+      "ok": true,
+      "error": "",
+      "posts_fetched": 7,
+      "expected_max_silence_hours": 336.0
+    },
+    "google_alerts_ccc": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": null,
+      "ok": false,
+      "error": "no_url_configured",
+      "posts_fetched": 0,
+      "expected_max_silence_hours": 72.0
+    },
+    "talkwalker_alerts_ccc": {
+      "last_run": "2026-05-18T20:40:15.740592Z",
+      "last_success_with_results": null,
+      "ok": false,
+      "error": "no_url_configured",
+      "posts_fetched": 0,
+      "expected_max_silence_hours": 72.0
+    }
+  }
+}
