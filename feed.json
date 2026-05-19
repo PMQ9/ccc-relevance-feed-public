@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-19T14:42:55.512925Z",
+  "generated_at": "2026-05-19T15:33:07.755758Z",
   "scoring_version": "1.4",
   "posts": [
     {
@@ -14,7 +14,7 @@
       "excerpt": "Vanderbilt University\u2019s College of Connected Computing (CCC) welcomed students, innovators and changemakers for the second annual Global Good Hackathon, held March 28\u201329. Building on the momentum of its inaugural year, the event brought together 21 teams dedicated to developing technology-driven solutions that address pressing social challenges. The hackathon continues to grow as a platform for [&#8230;]",
       "author": "moakc",
       "posted_at": "2026-04-30T15:33:15Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 1.0,
       "raw_score": 1.0,
       "components": {
@@ -33,50 +33,6 @@
           "entity": "Global Good Hackathon",
           "weight": 0.3,
           "kind": "person_or_program"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "491d8aa2245272c9",
-      "source": "crawler_vu_dsi",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://www.vanderbilt.edu/datascience/ai-showcase/",
-      "canonical_url": "https://www.vanderbilt.edu/datascience/ai-showcase",
-      "title": "College of Connected Computing AI Showcase - DSI",
-      "excerpt": "Attend or Nominate Experience the Future of AI at Vanderbilt Vanderbilt Data Science hosts three AI Showcases each year\u2014end-of-summer, fall, and spring semesters. Every event blends academic rigor with hands-on demos, giving our community a dependable rhythm for sharing progress, networking, and launching new ideas. Whether you attend one showcase or all three, you\u2019ll always [\u2026]",
-      "author": "Miguel Nunez",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 1.0,
-      "raw_score": 1.35,
-      "components": {
-        "entity_score": 1.25,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "College of Connected Computing",
-          "weight": 0.5,
-          "kind": "org"
-        },
-        {
-          "entity": "Vanderbilt data science",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Vanderbilt Data Science",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "data science",
-          "weight": 0.15,
-          "kind": "keyword"
         }
       ],
       "scoring_version": "1.4"
@@ -175,24 +131,24 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "daba8c59aa476ebc",
-      "source": "crawler_vu_computing_pages",
+      "id": "491d8aa2245272c9",
+      "source": "crawler_vu_dsi",
       "source_tier": 2,
       "platform": "web",
-      "url": "https://computing.vanderbilt.edu",
-      "canonical_url": "https://computing.vanderbilt.edu/",
-      "title": "Home",
-      "excerpt": "The future doesn't belong to those who code. It belongs to those who connect computing to every human endeavor. Matthew Johnson-Roberson Inaugural Dean of the College of Connected Computing Our Featured Programs Generative AI Minor Bridging technical concepts with domain-specific applications, the program empowers students to be thoughtful, informed innovators\u2014ready to lead in a world [&hellip;]",
-      "author": "moakc",
+      "url": "https://www.vanderbilt.edu/datascience/ai-showcase/",
+      "canonical_url": "https://www.vanderbilt.edu/datascience/ai-showcase",
+      "title": "College of Connected Computing AI Showcase - DSI",
+      "excerpt": "Attend or Nominate Experience the Future of AI at Vanderbilt Vanderbilt Data Science hosts three AI Showcases each year\u2014end-of-summer, fall, and spring semesters. Every event blends academic rigor with hands-on demos, giving our community a dependable rhythm for sharing progress, networking, and launching new ideas. Whether you attend one showcase or all three, you\u2019ll always [\u2026]",
+      "author": "Miguel Nunez",
       "posted_at": null,
       "fetched_at": "2026-05-19T14:42:55.512925Z",
       "score": 1.0,
-      "raw_score": 1.4,
+      "raw_score": 1.35,
       "components": {
-        "entity_score": 1.4,
+        "entity_score": 1.25,
         "source_bonus": 0.0,
         "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.0
+        "cooccurrence_bonus": 0.1
       },
       "matched_entities": [
         {
@@ -201,19 +157,19 @@
           "kind": "org"
         },
         {
-          "entity": "Matthew Johnson-Roberson",
+          "entity": "Vanderbilt data science",
           "weight": 0.3,
           "kind": "person_or_center"
         },
         {
-          "entity": "Johnson-Roberson",
+          "entity": "Vanderbilt Data Science",
           "weight": 0.3,
           "kind": "person_or_center"
         },
         {
-          "entity": "Generative AI minor",
-          "weight": 0.3,
-          "kind": "person_or_program"
+          "entity": "data science",
+          "weight": 0.15,
+          "kind": "keyword"
         }
       ],
       "scoring_version": "1.4"
@@ -258,119 +214,6 @@
           "entity": "computer science",
           "weight": 0.15,
           "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "f442bbd656a40e6f",
-      "source": "crawler_vu_computing_pages",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://computing.vanderbilt.edu/faculty/",
-      "canonical_url": "https://computing.vanderbilt.edu/faculty",
-      "title": "Faculty",
-      "excerpt": "Faculty Spotlight Jesse Spencer-Smith Powering AI innovation through partnerships Meiyi Ma Harnessing AI to make cities work better Data Science Teaching Faculty Meet data experts from across Vanderbilt College of Connected Computing Leadership Matthew Johnson-Roberson Dean View profile Robert Bodenheimer Associate Dean for Faculty Affairs View profile Abhishek Dubey Associate Dean for Research View profile [&hellip;]",
-      "author": "Ryan Underwood",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 1.0,
-      "raw_score": 3.15,
-      "components": {
-        "entity_score": 3.05,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "College of Connected Computing",
-          "weight": 0.5,
-          "kind": "org"
-        },
-        {
-          "entity": "Matthew Johnson-Roberson",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Jesse Spencer-Smith",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Robert Bodenheimer",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Johnson-Roberson",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Abhishek Dubey",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Spencer-Smith",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Bodenheimer",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Meiyi Ma",
-          "weight": 0.3,
-          "kind": "person_or_program"
-        },
-        {
-          "entity": "data science",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "d90491043660265b",
-      "source": "crawler_vu_computing_pages",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://computing.vanderbilt.edu/giving/",
-      "canonical_url": "https://computing.vanderbilt.edu/giving",
-      "title": "Giving",
-      "excerpt": "Dean's Giving Priorities Advance groundbreaking discoveries and enhance computing education at Vanderbilt by supporting the College of Connected Computing in three key areas: Dean\u2019s Discretionary Fund: Enable Dean Matthew Johnson-Roberson to address the college\u2019s highest priorities and strategically allocate resources where they are needed most, ensuring uninterrupted support for current and future initiatives. Leading Minds [&hellip;]",
-      "author": "Hayley Fahey",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 1.0,
-      "raw_score": 1.2,
-      "components": {
-        "entity_score": 1.1,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "College of Connected Computing",
-          "weight": 0.5,
-          "kind": "org"
-        },
-        {
-          "entity": "Matthew Johnson-Roberson",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Johnson-Roberson",
-          "weight": 0.3,
-          "kind": "person_or_center"
         }
       ],
       "scoring_version": "1.4"
@@ -459,35 +302,153 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "b734d0de5127f632",
-      "source": "crawler_vu_dsi",
+      "id": "d90491043660265b",
+      "source": "crawler_vu_computing_pages",
       "source_tier": 2,
       "platform": "web",
-      "url": "https://www.vanderbilt.edu/datascience/administration/",
-      "canonical_url": "https://www.vanderbilt.edu/datascience/administration",
-      "title": "Administration - DSI",
-      "excerpt": "Leadership Administration Watch our latest Faculty Spotlight! Get to know the people behind Vanderbilt Data Science. This series introduces the researchers, faculty, and staff who are driving innovation and collaboration in AI and data science at Vanderbilt University. Each video offers a closer look at their work, motivations, and contributions to the field.",
-      "author": "Lynn St. Pierre",
+      "url": "https://computing.vanderbilt.edu/giving/",
+      "canonical_url": "https://computing.vanderbilt.edu/giving",
+      "title": "Giving",
+      "excerpt": "Dean's Giving Priorities Advance groundbreaking discoveries and enhance computing education at Vanderbilt by supporting the College of Connected Computing in three key areas: Dean\u2019s Discretionary Fund: Enable Dean Matthew Johnson-Roberson to address the college\u2019s highest priorities and strategically allocate resources where they are needed most, ensuring uninterrupted support for current and future initiatives. Leading Minds [&hellip;]",
+      "author": "Hayley Fahey",
       "posted_at": null,
       "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.85,
-      "raw_score": 0.85,
+      "score": 1.0,
+      "raw_score": 1.2,
       "components": {
-        "entity_score": 0.75,
+        "entity_score": 1.1,
         "source_bonus": 0.0,
         "recency_bonus": 0.0,
         "cooccurrence_bonus": 0.1
       },
       "matched_entities": [
         {
-          "entity": "Vanderbilt data science",
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        },
+        {
+          "entity": "Matthew Johnson-Roberson",
           "weight": 0.3,
           "kind": "person_or_center"
         },
         {
-          "entity": "Vanderbilt Data Science",
+          "entity": "Johnson-Roberson",
           "weight": 0.3,
           "kind": "person_or_center"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "daba8c59aa476ebc",
+      "source": "crawler_vu_computing_pages",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://computing.vanderbilt.edu",
+      "canonical_url": "https://computing.vanderbilt.edu/",
+      "title": "Home",
+      "excerpt": "The future doesn't belong to those who code. It belongs to those who connect computing to every human endeavor. Matthew Johnson-Roberson Inaugural Dean of the College of Connected Computing Our Featured Programs Generative AI Minor Bridging technical concepts with domain-specific applications, the program empowers students to be thoughtful, informed innovators\u2014ready to lead in a world [&hellip;]",
+      "author": "moakc",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 1.0,
+      "raw_score": 1.4,
+      "components": {
+        "entity_score": 1.4,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        },
+        {
+          "entity": "Matthew Johnson-Roberson",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Johnson-Roberson",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Generative AI minor",
+          "weight": 0.3,
+          "kind": "person_or_program"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "f442bbd656a40e6f",
+      "source": "crawler_vu_computing_pages",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://computing.vanderbilt.edu/faculty/",
+      "canonical_url": "https://computing.vanderbilt.edu/faculty",
+      "title": "Faculty",
+      "excerpt": "Faculty Spotlight Jesse Spencer-Smith Powering AI innovation through partnerships Meiyi Ma Harnessing AI to make cities work better Data Science Teaching Faculty Meet data experts from across Vanderbilt College of Connected Computing Leadership Matthew Johnson-Roberson Dean View profile Robert Bodenheimer Associate Dean for Faculty Affairs View profile Abhishek Dubey Associate Dean for Research View profile [&hellip;]",
+      "author": "Ryan Underwood",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 1.0,
+      "raw_score": 3.15,
+      "components": {
+        "entity_score": 3.05,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        },
+        {
+          "entity": "Matthew Johnson-Roberson",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Jesse Spencer-Smith",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Robert Bodenheimer",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Johnson-Roberson",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Abhishek Dubey",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Spencer-Smith",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Bodenheimer",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Meiyi Ma",
+          "weight": 0.3,
+          "kind": "person_or_program"
         },
         {
           "entity": "data science",
@@ -507,45 +468,6 @@
       "title": "Industry Partners - DSI",
       "excerpt": "Who does Vanderbilt Data Science partner with? Our partnerships span a diverse range of industries, offering our students the chance to engage in impactful projects with leaders like Bridgestone, Asurion, and HCA. Whether it\u2019s working on AI-driven insights with Symtrain.ai or tackling data challenges with tech giants like NVIDIA, our collaborations cover a broad spectrum [\u2026]",
       "author": "Miguel Nunez",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.85,
-      "raw_score": 0.85,
-      "components": {
-        "entity_score": 0.75,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "Vanderbilt data science",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "Vanderbilt Data Science",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "data science",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "9b08676211041663",
-      "source": "crawler_vu_dsi",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://www.vanderbilt.edu/datascience/data-science-research/",
-      "canonical_url": "https://www.vanderbilt.edu/datascience/data-science-research",
-      "title": "Data Science Research - DSI",
-      "excerpt": "Data Science Team The Data Science (DS) Team supports Vanderbilt Data Science directive by empowering researchers and students to integrate data science tools and techniques into research across all disciplines. We can help you meet your needs through: Consultations on Research \u2013 engage us in discussing potential applications of data science to your research. Training [\u2026]",
-      "author": "Lynn St. Pierre",
       "posted_at": null,
       "fetched_at": "2026-05-19T14:42:55.512925Z",
       "score": 0.85,
@@ -615,33 +537,77 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "b807a764144e0e2e",
-      "source": "crawler_vu_computing_pages",
+      "id": "9b08676211041663",
+      "source": "crawler_vu_dsi",
       "source_tier": 2,
       "platform": "web",
-      "url": "https://computing.vanderbilt.edu/home/about/",
-      "canonical_url": "https://computing.vanderbilt.edu/home/about",
-      "title": "About the College of Connected Computing",
-      "excerpt": "Founded in March 2024, the College of Connected Computing (CCC) represents a bold initiative to advance computing education and research across disciplines. As the first new college at Vanderbilt since 1981, the CCC builds upon the university's historic strengths while preparing students to excel in a world increasingly shaped by computational thinking, artificial intelligence, and [&hellip;]",
-      "author": "Ryan Underwood",
+      "url": "https://www.vanderbilt.edu/datascience/data-science-research/",
+      "canonical_url": "https://www.vanderbilt.edu/datascience/data-science-research",
+      "title": "Data Science Research - DSI",
+      "excerpt": "Data Science Team The Data Science (DS) Team supports Vanderbilt Data Science directive by empowering researchers and students to integrate data science tools and techniques into research across all disciplines. We can help you meet your needs through: Consultations on Research \u2013 engage us in discussing potential applications of data science to your research. Training [\u2026]",
+      "author": "Lynn St. Pierre",
       "posted_at": null,
       "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.75,
-      "raw_score": 0.75,
+      "score": 0.85,
+      "raw_score": 0.85,
       "components": {
-        "entity_score": 0.65,
+        "entity_score": 0.75,
         "source_bonus": 0.0,
         "recency_bonus": 0.0,
         "cooccurrence_bonus": 0.1
       },
       "matched_entities": [
         {
-          "entity": "College of Connected Computing",
-          "weight": 0.5,
-          "kind": "org"
+          "entity": "Vanderbilt data science",
+          "weight": 0.3,
+          "kind": "person_or_center"
         },
         {
-          "entity": "computational thinking",
+          "entity": "Vanderbilt Data Science",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "data science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "b734d0de5127f632",
+      "source": "crawler_vu_dsi",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://www.vanderbilt.edu/datascience/administration/",
+      "canonical_url": "https://www.vanderbilt.edu/datascience/administration",
+      "title": "Administration - DSI",
+      "excerpt": "Leadership Administration Watch our latest Faculty Spotlight! Get to know the people behind Vanderbilt Data Science. This series introduces the researchers, faculty, and staff who are driving innovation and collaboration in AI and data science at Vanderbilt University. Each video offers a closer look at their work, motivations, and contributions to the field.",
+      "author": "Lynn St. Pierre",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.85,
+      "raw_score": 0.85,
+      "components": {
+        "entity_score": 0.75,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "Vanderbilt data science",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Vanderbilt Data Science",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "data science",
           "weight": 0.15,
           "kind": "keyword"
         }
@@ -676,6 +642,40 @@
         },
         {
           "entity": "computer science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "b807a764144e0e2e",
+      "source": "crawler_vu_computing_pages",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://computing.vanderbilt.edu/home/about/",
+      "canonical_url": "https://computing.vanderbilt.edu/home/about",
+      "title": "About the College of Connected Computing",
+      "excerpt": "Founded in March 2024, the College of Connected Computing (CCC) represents a bold initiative to advance computing education and research across disciplines. As the first new college at Vanderbilt since 1981, the CCC builds upon the university's historic strengths while preparing students to excel in a world increasingly shaped by computational thinking, artificial intelligence, and [&hellip;]",
+      "author": "Ryan Underwood",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.75,
+      "raw_score": 0.75,
+      "components": {
+        "entity_score": 0.65,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        },
+        {
+          "entity": "computational thinking",
           "weight": 0.15,
           "kind": "keyword"
         }
@@ -727,7 +727,7 @@
       "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
       "author": "",
       "posted_at": "2026-05-18T13:17:56Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -761,7 +761,7 @@
       "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
       "author": "",
       "posted_at": "2026-05-18T11:50:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -780,35 +780,6 @@
           "entity": "computer science",
           "weight": 0.15,
           "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "b2275a8a803ce52c",
-      "source": "crawler_vu_computing_pages",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://computing.vanderbilt.edu/ai-showcase/",
-      "canonical_url": "https://computing.vanderbilt.edu/ai-showcase",
-      "title": "AI Showcase",
-      "excerpt": "Nominate a Project Register to Attend Experience the Future of AI at Vanderbilt The College of Connected Computing hosts three AI Showcases each year: end-of-summer, fall, and spring semesters. Every event blends academic rigor with hands-on demos, giving our community a dependable rhythm for sharing progress, networking, and launching new ideas. Whether you attend one [&hellip;]",
-      "author": "nunezmj1",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.6,
-      "raw_score": 0.6,
-      "components": {
-        "entity_score": 0.5,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "College of Connected Computing",
-          "weight": 0.5,
-          "kind": "org"
         }
       ],
       "scoring_version": "1.4"
@@ -877,6 +848,35 @@
       "scoring_version": "1.4"
     },
     {
+      "id": "b2275a8a803ce52c",
+      "source": "crawler_vu_computing_pages",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://computing.vanderbilt.edu/ai-showcase/",
+      "canonical_url": "https://computing.vanderbilt.edu/ai-showcase",
+      "title": "AI Showcase",
+      "excerpt": "Nominate a Project Register to Attend Experience the Future of AI at Vanderbilt The College of Connected Computing hosts three AI Showcases each year: end-of-summer, fall, and spring semesters. Every event blends academic rigor with hands-on demos, giving our community a dependable rhythm for sharing progress, networking, and launching new ideas. Whether you attend one [&hellip;]",
+      "author": "nunezmj1",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.6,
+      "raw_score": 0.6,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
       "id": "b7fd738349f57bbe",
       "source": "crawler_vu_news_tags",
       "source_tier": 2,
@@ -916,7 +916,7 @@
       "excerpt": "The broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside&nbsp;...",
       "author": "",
       "posted_at": "2026-05-18T21:29:38Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -945,7 +945,7 @@
       "excerpt": "... connected computing resource. Although Kryptex differs from pure remote-access mining platforms, it remains relevant in beginner conversations&nbsp;...",
       "author": "",
       "posted_at": "2026-05-18T20:50:51Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -974,7 +974,7 @@
       "excerpt": "...participation and that account balances can reflect the rewards generated by the connected computing resource.Although Kryptex differs from pure remote-access mining platforms, it remains relevant in beginner conversations because its software...",
       "author": "",
       "posted_at": "2026-05-18T10:18:21Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -1003,7 +1003,7 @@
       "excerpt": "Matthew Johnson-Roberson, 37 &nbsp;&nbsp; Crain's Detroit Business",
       "author": "",
       "posted_at": "2026-03-20T00:25:35Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -1095,40 +1095,6 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "d671de1e4fc6900a",
-      "source": "crawler_vu_news_tags",
-      "source_tier": 2,
-      "platform": "vu_news",
-      "url": "https://news.vanderbilt.edu/2024/03/21/innovation-and-inclusivity-in-action-vanderbilts-ai-showcase-highlights-data-driven-solutions-for-real-world-challenges/",
-      "canonical_url": "https://news.vanderbilt.edu/2024/03/21/innovation-and-inclusivity-in-action-vanderbilts-ai-showcase-highlights-data-driven-solutions-for-real-world-challenges",
-      "title": "Innovation and inclusivity in action: Vanderbilt\u2019s AI Showcase highlights data-driven solutions for real-world challenges",
-      "excerpt": "Vanderbilt University\u2019s AI Showcase, a recent event hosted by the Data Science Institute, highlighted the remarkable convergence of innovation, inclusivity and practical problem-solving through student-led data science projects. The showcase, structured like a research fair, hosted an array of student presentations, each competing for a part of a $1,700 prize pool.",
-      "author": "Reagan Villet",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.55,
-      "raw_score": 0.55,
-      "components": {
-        "entity_score": 0.45,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "Data Science Institute",
-          "weight": 0.3,
-          "kind": "person_or_center"
-        },
-        {
-          "entity": "data science",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
       "id": "b30c2bdc96cb3c0b",
       "source": "crawler_vu_engineering_faculty",
       "source_tier": 2,
@@ -1163,6 +1129,40 @@
       "scoring_version": "1.4"
     },
     {
+      "id": "d671de1e4fc6900a",
+      "source": "crawler_vu_news_tags",
+      "source_tier": 2,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2024/03/21/innovation-and-inclusivity-in-action-vanderbilts-ai-showcase-highlights-data-driven-solutions-for-real-world-challenges/",
+      "canonical_url": "https://news.vanderbilt.edu/2024/03/21/innovation-and-inclusivity-in-action-vanderbilts-ai-showcase-highlights-data-driven-solutions-for-real-world-challenges",
+      "title": "Innovation and inclusivity in action: Vanderbilt\u2019s AI Showcase highlights data-driven solutions for real-world challenges",
+      "excerpt": "Vanderbilt University\u2019s AI Showcase, a recent event hosted by the Data Science Institute, highlighted the remarkable convergence of innovation, inclusivity and practical problem-solving through student-led data science projects. The showcase, structured like a research fair, hosted an array of student presentations, each competing for a part of a $1,700 prize pool.",
+      "author": "Reagan Villet",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.55,
+      "raw_score": 0.55,
+      "components": {
+        "entity_score": 0.45,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "Data Science Institute",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "data science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
       "id": "f66582929f9e9e34",
       "source": "talkwalker_connected_computing",
       "source_tier": 0,
@@ -1173,7 +1173,7 @@
       "excerpt": "...professional computing environments.Growth in cloud- connected computing devices The computer market now depends on cloud- connected computing devices due to users increasingly require access to cloud-based applications and digital services...",
       "author": "",
       "posted_at": "2026-05-17T17:14:14Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -1202,7 +1202,7 @@
       "excerpt": "develops and operates digital infrastructure focused on AI workloads, data centers, and power- connected computing facilities across North America. The company\u2019s biggest asset is not necessarily its mining operations anymore \u2014 it is its access to...",
       "author": "",
       "posted_at": "2026-05-16T20:44:27Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -1231,13 +1231,13 @@
       "excerpt": "...have uncovered a fascinating relationship to a little-known project involving connected computing and secure data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique key linked with a specific collection used in a trial phase of a program...",
       "author": "",
       "posted_at": "2026-05-16T15:23:56Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
         "entity_score": 0.5,
         "source_bonus": 0.0,
-        "recency_bonus": 0.0,
+        "recency_bonus": -0.05,
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [
@@ -1260,7 +1260,7 @@
       "excerpt": "Initially rejected as a random string of letters , dedicated sleuths have uncovered a fascinating relationship to a little-known project involving connected computing and cryptographic data. The identifier, it turns out, wasn't arbitrary; it\u2019s a...",
       "author": "",
       "posted_at": "2026-05-16T05:59:37Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -1272,35 +1272,6 @@
       "matched_entities": [
         {
           "entity": "Connected Computing",
-          "weight": 0.5,
-          "kind": "org"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "ef926493cd085b5b",
-      "source": "crawler_vu_computing_pages",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://computing.vanderbilt.edu/research/",
-      "canonical_url": "https://computing.vanderbilt.edu/research",
-      "title": "Research",
-      "excerpt": "Meet our faculty The CCC is committed to employing world class faculty and researchers to advance our mission of advancing computing research across disciplines Learn more about our faculty Centers and Institutes The College of Connected Computing unites a network of interdisciplinary centers and institutes\u2014focused on areas like AI, data science, and emerging technologies\u2014to drive [&hellip;]",
-      "author": "moakc",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.5,
-      "raw_score": 0.5,
-      "components": {
-        "entity_score": 0.5,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.0
-      },
-      "matched_entities": [
-        {
-          "entity": "College of Connected Computing",
           "weight": 0.5,
           "kind": "org"
         }
@@ -1337,6 +1308,35 @@
       "scoring_version": "1.4"
     },
     {
+      "id": "ef926493cd085b5b",
+      "source": "crawler_vu_computing_pages",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://computing.vanderbilt.edu/research/",
+      "canonical_url": "https://computing.vanderbilt.edu/research",
+      "title": "Research",
+      "excerpt": "Meet our faculty The CCC is committed to employing world class faculty and researchers to advance our mission of advancing computing research across disciplines Learn more about our faculty Centers and Institutes The College of Connected Computing unites a network of interdisciplinary centers and institutes\u2014focused on areas like AI, data science, and emerging technologies\u2014to drive [&hellip;]",
+      "author": "moakc",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.5,
+      "raw_score": 0.5,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
       "id": "a7abc6c51571d026",
       "source": "talkwalker_connected_computing",
       "source_tier": 0,
@@ -1347,7 +1347,7 @@
       "excerpt": "Initially dismissed as a random string of digits, dedicated sleuths have uncovered a fascinating link to a little-known project involving connected computing and encoded data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique key...",
       "author": "",
       "posted_at": "2026-05-16T02:15:53Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1376,7 +1376,7 @@
       "excerpt": "Initially considered as a random string of letters , dedicated sleuths have uncovered a fascinating relationship to a little-known project involving connected computing and encoded data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique...",
       "author": "",
       "posted_at": "2026-05-16T02:06:09Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1405,7 +1405,7 @@
       "excerpt": "...have uncovered a fascinating connection to a little-known project involving connected computing and cryptographic data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique key linked with a specific file used in a trial phase of a program...",
       "author": "",
       "posted_at": "2026-05-16T01:58:20Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1434,7 +1434,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T19:28:53Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1463,7 +1463,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T18:54:51Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1492,7 +1492,7 @@
       "excerpt": "...is still evolving, comparing it to the early evolution of the internet, when connected computing itself was still finding mainstream utility.\u201cThis is a little bit like what happened about 20-25 years back when internet evolved,\u201d he said. \u201cRight...",
       "author": "",
       "posted_at": "2026-05-15T08:17:44Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1521,7 +1521,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1550,7 +1550,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1579,7 +1579,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1608,7 +1608,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1637,7 +1637,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1666,7 +1666,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1695,7 +1695,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1724,7 +1724,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1753,7 +1753,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1782,7 +1782,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1811,7 +1811,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1840,7 +1840,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1869,7 +1869,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1898,7 +1898,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1927,7 +1927,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1956,7 +1956,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -1985,7 +1985,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2014,7 +2014,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2043,7 +2043,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2072,7 +2072,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2101,7 +2101,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2130,7 +2130,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2159,7 +2159,7 @@
       "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
       "author": "",
       "posted_at": "2026-05-15T04:54:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2188,7 +2188,7 @@
       "excerpt": "...Langford Auditorium event. &quot;From our College of Connected Computing to our planned innovation district here in Nashville, to... Sarah Beck, an associate project manager with the College of Connected Computing , received the award.In an environment...",
       "author": "",
       "posted_at": "2026-05-14T19:36:54Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2217,7 +2217,7 @@
       "excerpt": "Most people still think of cloud platforms as business software and remote storage. In reality, they\u2019re giant globally connected computing environments capable of storing, correlating, analysing, and processing surveillance data at scales...",
       "author": "",
       "posted_at": "2026-05-14T08:38:54Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2246,7 +2246,7 @@
       "excerpt": "The company remains tied to several powerful market themes including digital learning, automation, embedded systems, and connected computing infrastructure. Those structural trends continue supporting visibility for British technology firms...",
       "author": "",
       "posted_at": "2026-05-14T07:41:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2275,7 +2275,7 @@
       "excerpt": "The company says it is combining the Android ecosystem with ChromeOS to create a more connected computing experience. That means users get Android apps from Google Play alongside Chrome\u2019s web-focused experience. However, the bigger focus is...",
       "author": "",
       "posted_at": "2026-05-13T12:13:49Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2304,7 +2304,7 @@
       "excerpt": "...operations. The evolution of PLCs from basic machine controllers to intelligent, connected computing systems is reshaping how industries manage production, monitor assets, and optimize performance.Market Overview and EvolutionHistorically, the...",
       "author": "",
       "posted_at": "2026-05-13T04:38:12Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2333,7 +2333,7 @@
       "excerpt": "Even low-cost entertainment slate tablets have caught a piece of the boom in tablet demand,\u201d says Eric Smith, director, Connected Computing at Strategy Analytics. \u201cSmall sized tablet demand is declining as large smartphones/phablets continue to put...",
       "author": "",
       "posted_at": "2026-05-12T11:11:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2362,7 +2362,7 @@
       "excerpt": "...and USB ports as well as any other connected computing devices; connect multiple computers via expandable virtual network...",
       "author": "",
       "posted_at": "2026-05-11T21:32:36Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2391,7 +2391,7 @@
       "excerpt": "...ESP32-C3 eInk project ideas and tutorialsConclusion: A New shape for Tiny, Connected Computing Muxcard showcases what\u2019s possible when you merge a low-power eInk display with the connectivity and developer ecosystem of the ESP32\u2011C3-all in a...",
       "author": "",
       "posted_at": "2026-05-11T11:26:56Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2420,7 +2420,7 @@
       "excerpt": "Vineet Gehani, Senior Director for Personal Systems at HP India, said the company sees growing demand for flexible and connected computing experiences as hybrid work models continue to evolve.Workstations and Enterprise InfrastructureBeyond...",
       "author": "",
       "posted_at": "2026-05-11T08:33:00Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -2439,15 +2439,15 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "79eb6dd2aca38f3a",
-      "source": "crawler_vu_dsi",
+      "id": "3cf5b49feced1118",
+      "source": "crawler_vu_isis",
       "source_tier": 2,
       "platform": "web",
-      "url": "https://www.vanderbilt.edu/datascience/msprogram/",
-      "canonical_url": "https://www.vanderbilt.edu/datascience/msprogram",
-      "title": "Masters in Data Science - DSI",
-      "excerpt": "Why Vanderbilt for Data Science? 4 Mods / 30 Credits / 9 Months / On Campus. What is the Mod System? Program Highlights Vanderbilt\u2019s M.S. in Data Science (30 credits) blends computer science, statistics, and business practices\u2014delivered fully in person. The curriculum runs across four intensive modules (August\u2013May). You\u2019ll move from foundations to advanced applications [\u2026]",
-      "author": "Miguel Nunez",
+      "url": "https://www.isis.vanderbilt.edu/index.php/about-us",
+      "canonical_url": "https://www.isis.vanderbilt.edu/index.php/about-us",
+      "title": "About Us",
+      "excerpt": "Welcome to the Institute for Software Integrated Systems (ISIS) at Vanderbilt University, a beacon ofacademic excellenceand ahub of pioneering innovationin the heart of Nashville, TN. Our mission is to push the boundaries of systems and information science, engineering the future of technology through groundbreaking research and collaborative education.",
+      "author": "",
       "posted_at": null,
       "fetched_at": "2026-05-19T14:42:55.512925Z",
       "score": 0.4,
@@ -2460,14 +2460,38 @@
       },
       "matched_entities": [
         {
-          "entity": "computer science",
-          "weight": 0.15,
-          "kind": "keyword"
-        },
+          "entity": "Institute for Software Integrated Systems",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "617402f00dd492f8",
+      "source": "crawler_vu_isis",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://www.isis.vanderbilt.edu/news/?page=2",
+      "canonical_url": "https://www.isis.vanderbilt.edu/news?page=2",
+      "title": "News",
+      "excerpt": "Congrats to Meiyi Ma for earning the 2024 Community Impact Research Award from Vanderbilt School of Engineering. Faculty Research Awards recognize exceptional research achievements by VUSE faculty\u2026",
+      "author": "",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.4,
+      "raw_score": 0.4,
+      "components": {
+        "entity_score": 0.3,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
         {
-          "entity": "data science",
-          "weight": 0.15,
-          "kind": "keyword"
+          "entity": "Meiyi Ma",
+          "weight": 0.3,
+          "kind": "person_or_program"
         }
       ],
       "scoring_version": "1.4"
@@ -2531,15 +2555,15 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "617402f00dd492f8",
-      "source": "crawler_vu_isis",
+      "id": "79eb6dd2aca38f3a",
+      "source": "crawler_vu_dsi",
       "source_tier": 2,
       "platform": "web",
-      "url": "https://www.isis.vanderbilt.edu/news/?page=2",
-      "canonical_url": "https://www.isis.vanderbilt.edu/news?page=2",
-      "title": "News",
-      "excerpt": "Congrats to Meiyi Ma for earning the 2024 Community Impact Research Award from Vanderbilt School of Engineering. Faculty Research Awards recognize exceptional research achievements by VUSE faculty\u2026",
-      "author": "",
+      "url": "https://www.vanderbilt.edu/datascience/msprogram/",
+      "canonical_url": "https://www.vanderbilt.edu/datascience/msprogram",
+      "title": "Masters in Data Science - DSI",
+      "excerpt": "Why Vanderbilt for Data Science? 4 Mods / 30 Credits / 9 Months / On Campus. What is the Mod System? Program Highlights Vanderbilt\u2019s M.S. in Data Science (30 credits) blends computer science, statistics, and business practices\u2014delivered fully in person. The curriculum runs across four intensive modules (August\u2013May). You\u2019ll move from foundations to advanced applications [\u2026]",
+      "author": "Miguel Nunez",
       "posted_at": null,
       "fetched_at": "2026-05-19T14:42:55.512925Z",
       "score": 0.4,
@@ -2552,38 +2576,14 @@
       },
       "matched_entities": [
         {
-          "entity": "Meiyi Ma",
-          "weight": 0.3,
-          "kind": "person_or_program"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "3cf5b49feced1118",
-      "source": "crawler_vu_isis",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://www.isis.vanderbilt.edu/index.php/about-us",
-      "canonical_url": "https://www.isis.vanderbilt.edu/index.php/about-us",
-      "title": "About Us",
-      "excerpt": "Welcome to the Institute for Software Integrated Systems (ISIS) at Vanderbilt University, a beacon ofacademic excellenceand ahub of pioneering innovationin the heart of Nashville, TN. Our mission is to push the boundaries of systems and information science, engineering the future of technology through groundbreaking research and collaborative education.",
-      "author": "",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.4,
-      "raw_score": 0.4,
-      "components": {
-        "entity_score": 0.3,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
+          "entity": "computer science",
+          "weight": 0.15,
+          "kind": "keyword"
+        },
         {
-          "entity": "Institute for Software Integrated Systems",
-          "weight": 0.3,
-          "kind": "person_or_center"
+          "entity": "data science",
+          "weight": 0.15,
+          "kind": "keyword"
         }
       ],
       "scoring_version": "1.4"
@@ -2599,7 +2599,7 @@
       "excerpt": "Vanderbilt faculty like Associate Dean for Research Abhishek Dubey are on the leading edge of investigation and development of AI. Dubey, also director of the SCOPE lab, develops advanced AI-driven frameworks and decision-making methods to improve public safety, transportation and infrastructure. Read more about Dubey, his research and his commitment to connecting academia and industry for the advancement of society.",
       "author": "Reagan Villet",
       "posted_at": "2026-04-24T17:21:04Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -2676,6 +2676,35 @@
       "scoring_version": "1.4"
     },
     {
+      "id": "0bf3b2b563d98a14",
+      "source": "crawler_vu_dsi",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://www.vanderbilt.edu/datascience/ai-days-2026/",
+      "canonical_url": "https://www.vanderbilt.edu/datascience/ai-days-2026",
+      "title": "AI Days 2026 - DSI",
+      "excerpt": "Overview This 2-day event, scheduled for March 4th-5th, brings together Vanderbilt's community of researchers, educators, and practitioners. Space is limited, and registration is reviewed to ensure the best possible experience for all attendees. Participants will explore how generative AI and agentic systems can enhance their research, teaching, and daily academic work. and ensure that they [\u2026]",
+      "author": "Miguel Nunez",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.25,
+      "raw_score": 0.25,
+      "components": {
+        "entity_score": 0.15,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "generative AI",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
       "id": "1cf7e3aefea90c55",
       "source": "crawler_vu_dsi",
       "source_tier": 2,
@@ -2698,6 +2727,64 @@
       "matched_entities": [
         {
           "entity": "data science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "5ba5404f7bdc741f",
+      "source": "crawler_vu_news_tags",
+      "source_tier": 2,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2018/09/06/vanderbilt-bytes-into-data-science-new-programs-in-a-revolutionary-field-will-foster-discovery-collaboration-and-learning-across-campus/",
+      "canonical_url": "https://news.vanderbilt.edu/2018/09/06/vanderbilt-bytes-into-data-science-new-programs-in-a-revolutionary-field-will-foster-discovery-collaboration-and-learning-across-campus",
+      "title": "Vanderbilt Bytes into Data Science: New programs in a revolutionary field will foster discovery, collaboration and learning across campus",
+      "excerpt": "Data science likely will revolutionize a number of disciplines in the coming years. Yet Vanderbilt experts say we\u2019ve barely reached the beginning stages of unlocking the full potential of data science\u2014or understanding how to use it responsibly.",
+      "author": "Communications and Marketing",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.25,
+      "raw_score": 0.25,
+      "components": {
+        "entity_score": 0.15,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "data science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "6dea5f494c5638de",
+      "source": "crawler_vu_engineering_faculty",
+      "source_tier": 2,
+      "platform": "web",
+      "url": "https://engineering.vanderbilt.edu/contact-us/",
+      "canonical_url": "https://engineering.vanderbilt.edu/contact-us",
+      "title": "Contact Us - School of Engineering",
+      "excerpt": "2301 Vanderbilt PlacePMB 351826Nashville, TN 37235-1826 (615) 343-3773 VUSE map View Administrative Staff Dean's Office Development & Alumni Relations Academic Services Communications, Marketing, Media Relations Information Technology View All Staff View Faculty by Department Biomedical Engineering Chemical & Biomolecular Engineering Civil & Environmental Engineering Electrical and Computer Engineering Computer Science Division of Engineering Science and [\u2026]",
+      "author": "arizagee",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.25,
+      "raw_score": 0.25,
+      "components": {
+        "entity_score": 0.15,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "computer science",
           "weight": 0.15,
           "kind": "keyword"
         }
@@ -2763,35 +2850,6 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "0bf3b2b563d98a14",
-      "source": "crawler_vu_dsi",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://www.vanderbilt.edu/datascience/ai-days-2026/",
-      "canonical_url": "https://www.vanderbilt.edu/datascience/ai-days-2026",
-      "title": "AI Days 2026 - DSI",
-      "excerpt": "Overview This 2-day event, scheduled for March 4th-5th, brings together Vanderbilt's community of researchers, educators, and practitioners. Space is limited, and registration is reviewed to ensure the best possible experience for all attendees. Participants will explore how generative AI and agentic systems can enhance their research, teaching, and daily academic work. and ensure that they [\u2026]",
-      "author": "Miguel Nunez",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.25,
-      "raw_score": 0.25,
-      "components": {
-        "entity_score": 0.15,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "generative AI",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
       "id": "b5ea49dceb87cc4d",
       "source": "crawler_vu_dsi",
       "source_tier": 2,
@@ -2814,6 +2872,35 @@
       "matched_entities": [
         {
           "entity": "AI research",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "c851d6cd34c28c82",
+      "source": "crawler_vu_news_tags",
+      "source_tier": 2,
+      "platform": "vu_news",
+      "url": "https://news.vanderbilt.edu/2025/09/08/ai-requires-responsible-stewardship-peabodys-new-online-hub-guides-the-way/",
+      "canonical_url": "https://news.vanderbilt.edu/2025/09/08/ai-requires-responsible-stewardship-peabodys-new-online-hub-guides-the-way",
+      "title": "AI requires responsible stewardship. Peabody\u2019s new online hub guides the way.",
+      "excerpt": "By Jennifer Kiilerich Generative AI is ubiquitous these days, but its use tends to raise as many questions\u2014from practical to ethical\u2014as it answers. A Vanderbilt website launched this spring, the Peabody Hub for Mindful AI Innovation, provides a space for users to take a breath and reflect on what it really means to create with [&hellip;]",
+      "author": "Jennifer Kiilerich-Hansen",
+      "posted_at": null,
+      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "score": 0.25,
+      "raw_score": 0.25,
+      "components": {
+        "entity_score": 0.15,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "generative AI",
           "weight": 0.15,
           "kind": "keyword"
         }
@@ -2908,93 +2995,6 @@
       "scoring_version": "1.4"
     },
     {
-      "id": "5ba5404f7bdc741f",
-      "source": "crawler_vu_news_tags",
-      "source_tier": 2,
-      "platform": "vu_news",
-      "url": "https://news.vanderbilt.edu/2018/09/06/vanderbilt-bytes-into-data-science-new-programs-in-a-revolutionary-field-will-foster-discovery-collaboration-and-learning-across-campus/",
-      "canonical_url": "https://news.vanderbilt.edu/2018/09/06/vanderbilt-bytes-into-data-science-new-programs-in-a-revolutionary-field-will-foster-discovery-collaboration-and-learning-across-campus",
-      "title": "Vanderbilt Bytes into Data Science: New programs in a revolutionary field will foster discovery, collaboration and learning across campus",
-      "excerpt": "Data science likely will revolutionize a number of disciplines in the coming years. Yet Vanderbilt experts say we\u2019ve barely reached the beginning stages of unlocking the full potential of data science\u2014or understanding how to use it responsibly.",
-      "author": "Communications and Marketing",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.25,
-      "raw_score": 0.25,
-      "components": {
-        "entity_score": 0.15,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "data science",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "c851d6cd34c28c82",
-      "source": "crawler_vu_news_tags",
-      "source_tier": 2,
-      "platform": "vu_news",
-      "url": "https://news.vanderbilt.edu/2025/09/08/ai-requires-responsible-stewardship-peabodys-new-online-hub-guides-the-way/",
-      "canonical_url": "https://news.vanderbilt.edu/2025/09/08/ai-requires-responsible-stewardship-peabodys-new-online-hub-guides-the-way",
-      "title": "AI requires responsible stewardship. Peabody\u2019s new online hub guides the way.",
-      "excerpt": "By Jennifer Kiilerich Generative AI is ubiquitous these days, but its use tends to raise as many questions\u2014from practical to ethical\u2014as it answers. A Vanderbilt website launched this spring, the Peabody Hub for Mindful AI Innovation, provides a space for users to take a breath and reflect on what it really means to create with [&hellip;]",
-      "author": "Jennifer Kiilerich-Hansen",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.25,
-      "raw_score": 0.25,
-      "components": {
-        "entity_score": 0.15,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "generative AI",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "6dea5f494c5638de",
-      "source": "crawler_vu_engineering_faculty",
-      "source_tier": 2,
-      "platform": "web",
-      "url": "https://engineering.vanderbilt.edu/contact-us/",
-      "canonical_url": "https://engineering.vanderbilt.edu/contact-us",
-      "title": "Contact Us - School of Engineering",
-      "excerpt": "2301 Vanderbilt PlacePMB 351826Nashville, TN 37235-1826 (615) 343-3773 VUSE map View Administrative Staff Dean's Office Development & Alumni Relations Academic Services Communications, Marketing, Media Relations Information Technology View All Staff View Faculty by Department Biomedical Engineering Chemical & Biomolecular Engineering Civil & Environmental Engineering Electrical and Computer Engineering Computer Science Division of Engineering Science and [\u2026]",
-      "author": "arizagee",
-      "posted_at": null,
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
-      "score": 0.25,
-      "raw_score": 0.25,
-      "components": {
-        "entity_score": 0.15,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.1
-      },
-      "matched_entities": [
-        {
-          "entity": "computer science",
-          "weight": 0.15,
-          "kind": "keyword"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
       "id": "61e7637ad573c1e3",
       "source": "vu_news",
       "source_tier": 1,
@@ -3005,7 +3005,7 @@
       "excerpt": "By Jenna Somers Educators and researchers around the world, especially in countries with limited resources, need cost-effective, scalable tools for assessing early child development. Direct assessments, a commonly used approach, require children to complete a range of activities that measure academic, physical and social-emotional skills. These assessments paint a nuanced picture of early child development [&#8230;]",
       "author": "Jenna Somers",
       "posted_at": "2026-05-19T13:00:05Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3028,7 +3028,7 @@
       "excerpt": "Athletic Director and Vice Chancellor for Athletics Candice Story Lee sets on her on sights on what she wants Vanderbilt sports to be.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T23:33:57Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3051,7 +3051,7 @@
       "excerpt": "Daniel Huddleston, BA\u201994 has translated eight Japanese science fiction novels.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T15:34:08Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3074,7 +3074,7 @@
       "excerpt": "Cornelius Vanderbilt, whose $1 million gift established the university in 1873, earned the nickname \u201cthe Commodore\u201d while building a vast transportation empire that included ships and railroads. The university\u2019s athletes were nicknamed the Commodores as early as 1898 by newspaperman and football alumnus William E. Beard. In a 1915 Tennessee American cartoon after Vanderbilt\u2019s gridiron [&#8230;]",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:46Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3097,7 +3097,7 @@
       "excerpt": "Late in 2025, Jennifer and Marc Lipschultz committed a landmark collection of nearly 5,000 photographs to the Vanderbilt University Museum of Art.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:38Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3120,7 +3120,7 @@
       "excerpt": "Corey and Michelle Harris' gift for Pre-Vet Students, Athletics and Campus Life was inspired by their daughter's journey.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:38Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3143,7 +3143,7 @@
       "excerpt": "By Jennifer Kiilerich Tatiana Peredo, research assistant professor of special education at Vanderbilt Peabody College of education and human development, has been selected for a Fulbright U.S. Scholar award to Chile for the 2026\u201327 academic year. It is Peredo\u2019s second time receiving the renowned federal award, which aims to promote innovation globally and build relationships [&#8230;]",
       "author": "Jennifer Kiilerich-Hansen",
       "posted_at": "2026-05-18T12:00:41Z",
-      "fetched_at": "2026-05-19T14:42:55.512925Z",
+      "fetched_at": "2026-05-19T15:33:07.755758Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -3198,47 +3198,47 @@
   "linkedin_saved_searches": [],
   "collector_status": {
     "vu_news_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 168.0
     },
     "vu_news": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "computing_vanderbilt": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 23,
+      "posts_fetched": 22,
       "expected_max_silence_hours": 168.0
     },
     "google_news_amplify": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 7,
       "expected_max_silence_hours": 336.0
     },
     "google_news_vanderbilt_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3246,143 +3246,143 @@
       "expected_max_silence_hours": 168.0
     },
     "google_news_college_of_connected_computing": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 25,
       "expected_max_silence_hours": 168.0
     },
     "google_news_computing_for_all": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 8,
       "expected_max_silence_hours": 336.0
     },
     "google_news_data_science_institute": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 23,
       "expected_max_silence_hours": 336.0
     },
     "google_news_matthew_johnson_roberson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 21,
       "expected_max_silence_hours": 336.0
     },
     "google_news_jules_white": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 9,
       "expected_max_silence_hours": 336.0
     },
     "google_news_padma_raghavan": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 16,
       "expected_max_silence_hours": 336.0
     },
     "google_news_jesse_spencer_smith": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_abhishek_dubey": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_robert_bodenheimer": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 5,
       "expected_max_silence_hours": 336.0
     },
     "google_news_taylor_johnson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 32,
+      "posts_fetched": 31,
       "expected_max_silence_hours": 336.0
     },
     "google_news_gautam_biswas": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 14,
       "expected_max_silence_hours": 336.0
     },
     "google_news_tyler_derr": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_bryan_ward": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 5,
       "expected_max_silence_hours": 168.0
     },
     "bing_news_amplify": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_vanderbilt_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
-      "ok": false,
-      "error": "parse_failed: <unknown>:2:26: not well-formed (invalid token)",
+      "ok": true,
+      "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_college_of_connected_computing": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
-      "ok": false,
-      "error": "parse_failed: <unknown>:2:26: not well-formed (invalid token)",
+      "ok": true,
+      "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "bing_news_matthew_johnson_roberson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3390,7 +3390,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_amplify_genai": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3398,15 +3398,15 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_connected_computing": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_matthew_johnson_roberson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3414,15 +3414,15 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "google_alerts_college_of_connected_computing": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3430,7 +3430,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3438,7 +3438,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_amplify_genai_innovation_center": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3446,7 +3446,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_computing_for_all": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3454,7 +3454,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_data_science_institute": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3462,7 +3462,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_jules_white": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3470,7 +3470,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_padma_raghavan": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3478,7 +3478,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_jesse_spencer_smith": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3486,7 +3486,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_abhishek_dubey": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3494,7 +3494,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_taylor_johnson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3502,7 +3502,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_julie_johnson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3510,7 +3510,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_robert_bodenheimer": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3518,7 +3518,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_janos_sztipanovits": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3526,7 +3526,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_bennett_landman": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3534,7 +3534,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_maithilee_kunda": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3542,7 +3542,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_xenofon_koutsoukos": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3550,7 +3550,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_gautam_biswas": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3558,7 +3558,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_genai_minor": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3566,7 +3566,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_ds_minor": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3574,15 +3574,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_amplify_genai": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_amplify_innovation_center": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3590,23 +3590,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_college_of_connected_computing": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_connected_computing": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 50,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_vanderbilt_ccc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3614,23 +3614,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt_and_cc": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_matthew_johnson_roberson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 22,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_data_science_institute": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3638,7 +3638,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jesse_spencer_smith": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3646,15 +3646,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jules_white": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_padma_raghavan": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3662,7 +3662,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_abhishek_dubey": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3670,7 +3670,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_robert_bodenheimer": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3678,7 +3678,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_taylor_johnson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3686,7 +3686,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_julie_johnson": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3694,7 +3694,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_janos_sztipanovits": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3702,7 +3702,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_bennett_landman": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3710,7 +3710,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_maithilee_kunda": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3718,7 +3718,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_xenofon_koutsoukos": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3726,7 +3726,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_gautam_biswas": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3734,7 +3734,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_genai_minor": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3742,7 +3742,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_ds_minor": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3750,15 +3750,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T15:33:07.755758Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 73,
+      "posts_fetched": 96,
       "expected_max_silence_hours": 24.0
     },
     "crawler_vu_engineering_news": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -3766,67 +3766,67 @@
       "expected_max_silence_hours": 168.0
     },
     "crawler_vu_dsi": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 37,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_computing_pages": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 19,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_isis": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T14:44:17.637566Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 45,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_news_tags": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 34,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 72.0
     },
     "crawler_vu_engineering_faculty": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 46,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 720.0
     },
     "crawler_mit_schwarzman": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": "2026-05-19T14:46:17.121655Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 57,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "crawler_stanford_hai": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 59,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "crawler_cmu_scs": {
-      "last_run": "2026-05-19T14:42:55.512925Z",
-      "last_success_with_results": "2026-05-19T14:42:55.512925Z",
+      "last_run": "2026-05-19T15:33:07.755758Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 59,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     }
   }
