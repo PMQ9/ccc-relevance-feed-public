@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-05-19T01:52:27.851282Z",
-  "scoring_version": "1.3",
+  "generated_at": "2026-05-19T03:10:24.029763Z",
+  "scoring_version": "1.4",
   "posts": [
     {
       "id": "f960632b243da3db",
@@ -14,7 +14,7 @@
       "excerpt": "Vanderbilt University\u2019s College of Connected Computing (CCC) welcomed students, innovators and changemakers for the second annual Global Good Hackathon, held March 28\u201329. Building on the momentum of its inaugural year, the event brought together 21 teams dedicated to developing technology-driven solutions that address pressing social challenges. The hackathon continues to grow as a platform for [&#8230;]",
       "author": "moakc",
       "posted_at": "2026-04-30T15:33:15Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 1.0,
       "raw_score": 1.0,
       "components": {
@@ -35,7 +35,75 @@
           "kind": "person_or_program"
         }
       ],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "094f132bdad9e485",
+      "source": "talkwalker_jules_white",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.thedeepview.com/newsletter/study-raises-new-red-flags-on-the-safety-of-agents",
+      "canonical_url": "https://www.thedeepview.com/newsletter/study-raises-new-red-flags-on-the-safety-of-agents",
+      "title": "New study confirms grim warnings about agents",
+      "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
+      "author": "",
+      "posted_at": "2026-05-18T13:17:56Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.6,
+      "raw_score": 0.6,
+      "components": {
+        "entity_score": 0.45,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "Jules White",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "computer science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "7fbfa65d730a433f",
+      "source": "talkwalker_jules_white",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://archive.thedeepview.com/p/study-raises-new-red-flags-on-the-safety-of-agents",
+      "canonical_url": "https://archive.thedeepview.com/p/study-raises-new-red-flags-on-the-safety-of-agents",
+      "title": "Study raises new red flags on the safety of agents",
+      "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
+      "author": "",
+      "posted_at": "2026-05-18T11:50:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.6,
+      "raw_score": 0.6,
+      "components": {
+        "entity_score": 0.45,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "Jules White",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "computer science",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
     },
     {
       "id": "9892c0f6304226a6",
@@ -48,11 +116,11 @@
       "excerpt": "The broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside&nbsp;...",
       "author": "",
       "posted_at": "2026-05-18T21:29:38Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
-        "entity_score": 0.0,
+        "entity_score": 0.5,
         "source_bonus": 0.0,
         "recency_bonus": 0.05,
         "cooccurrence_bonus": 0.0
@@ -64,7 +132,7 @@
           "kind": "org"
         }
       ],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "e9f78a0401b1d105",
@@ -77,11 +145,11 @@
       "excerpt": "... connected computing resource. Although Kryptex differs from pure remote-access mining platforms, it remains relevant in beginner conversations&nbsp;...",
       "author": "",
       "posted_at": "2026-05-18T20:50:51Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
-        "entity_score": 0.0,
+        "entity_score": 0.5,
         "source_bonus": 0.0,
         "recency_bonus": 0.05,
         "cooccurrence_bonus": 0.0
@@ -93,7 +161,7 @@
           "kind": "org"
         }
       ],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "9cc7d385eaa6e3f8",
@@ -106,11 +174,11 @@
       "excerpt": "...participation and that account balances can reflect the rewards generated by the connected computing resource.Although Kryptex differs from pure remote-access mining platforms, it remains relevant in beginner conversations because its software...",
       "author": "",
       "posted_at": "2026-05-18T10:18:21Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
-        "entity_score": 0.0,
+        "entity_score": 0.5,
         "source_bonus": 0.0,
         "recency_bonus": 0.05,
         "cooccurrence_bonus": 0.0
@@ -122,20 +190,977 @@
           "kind": "org"
         }
       ],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "f66582929f9e9e34",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.sphericalinsights.com/blogs/top-30-companies-in-global-computer-market-2026-2035-expert-view-by-spherical-insights",
+      "canonical_url": "https://www.sphericalinsights.com/blogs/top-30-companies-in-global-computer-market-2026-2035-expert-view-by-spherical-insights",
+      "title": "Top 30 Companies in Global Computer Market (2026\u20132035): Expert View By Spherical Insights",
+      "excerpt": "...professional computing environments.Growth in cloud- connected computing devices The computer market now depends on cloud- connected computing devices due to users increasingly require access to cloud-based applications and digital services...",
+      "author": "",
+      "posted_at": "2026-05-17T17:14:14Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.5,
+      "raw_score": 0.5,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "9528387a8a4a64a1",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://outsidertrading.ca/keel-infrastructure-corp-keel-to-canadas-emerging-ai-infrastructure-play/",
+      "canonical_url": "https://outsidertrading.ca/keel-infrastructure-corp-keel-to-canadas-emerging-ai-infrastructure-play",
+      "title": "Keel Infrastructure Corp. (KEEL.TO): Canada\u2019s Emerging AI Infrastructure Play?",
+      "excerpt": "develops and operates digital infrastructure focused on AI workloads, data centers, and power- connected computing facilities across North America. The company\u2019s biggest asset is not necessarily its mining operations anymore \u2014 it is its access to...",
+      "author": "",
+      "posted_at": "2026-05-16T20:44:27Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.5,
+      "raw_score": 0.5,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "89ed370347e52c92",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://georgiaesgb056752.full-design.com/discovering-pza789-capabilities-83954923",
+      "canonical_url": "https://georgiaesgb056752.full-design.com/discovering-pza789-capabilities-83954923",
+      "title": "Discovering pza789: Capabilities",
+      "excerpt": "...have uncovered a fascinating relationship to a little-known project involving connected computing and secure data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique key linked with a specific collection used in a trial phase of a program...",
+      "author": "",
+      "posted_at": "2026-05-16T15:23:56Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.5,
+      "raw_score": 0.5,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "2975febc1228cf1a",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://tayaijrf012620.mybloglicious.com/61251936/exploring-the-pza789-potential",
+      "canonical_url": "https://tayaijrf012620.mybloglicious.com/61251936/exploring-the-pza789-potential",
+      "title": "Exploring The pza789 Potential",
+      "excerpt": "Initially rejected as a random string of letters , dedicated sleuths have uncovered a fascinating relationship to a little-known project involving connected computing and cryptographic data. The identifier, it turns out, wasn't arbitrary; it\u2019s a...",
+      "author": "",
+      "posted_at": "2026-05-16T05:59:37Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.5,
+      "raw_score": 0.5,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.0,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "a7abc6c51571d026",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://aadamuphb790544.webbuzzfeed.com/41682465/exploring-pza789-capabilities",
+      "canonical_url": "https://aadamuphb790544.webbuzzfeed.com/41682465/exploring-pza789-capabilities",
+      "title": "Exploring pza789 Capabilities",
+      "excerpt": "Initially dismissed as a random string of digits, dedicated sleuths have uncovered a fascinating link to a little-known project involving connected computing and encoded data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique key...",
+      "author": "",
+      "posted_at": "2026-05-16T02:15:53Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "e45799ca044fcc75",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://tiffanynqdg474622.tinyblogging.com/exploring-pza789-capabilities-85505053",
+      "canonical_url": "https://tiffanynqdg474622.tinyblogging.com/exploring-pza789-capabilities-85505053",
+      "title": "Exploring pza789: Capabilities",
+      "excerpt": "Initially considered as a random string of letters , dedicated sleuths have uncovered a fascinating relationship to a little-known project involving connected computing and encoded data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique...",
+      "author": "",
+      "posted_at": "2026-05-16T02:06:09Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "a59dea0788d17f61",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://caoimhejvhd517499.blog2learn.com/88951858/examining-pza789-capabilities",
+      "canonical_url": "https://caoimhejvhd517499.blog2learn.com/88951858/examining-pza789-capabilities",
+      "title": "Examining pza789: Capabilities",
+      "excerpt": "...have uncovered a fascinating connection to a little-known project involving connected computing and cryptographic data. The identifier, it turns out, wasn't arbitrary; it\u2019s a unique key linked with a specific file used in a trial phase of a program...",
+      "author": "",
+      "posted_at": "2026-05-16T01:58:20Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "35629c748883bc9d",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://goinvest.com/2026/05/15/micware-co-ltd-enters-the-public-markets-at-the-center-of-the-software-defined-vehicle-revolution/",
+      "canonical_url": "https://goinvest.com/2026/05/15/micware-co-ltd-enters-the-public-markets-at-the-center-of-the-software-defined-vehicle-revolution",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T19:28:53Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "78a9f007a0699fbe",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://ipsnews.net/business/2026/05/15/micware-co-ltd-enters-the-public-markets-at-the-center-of-the-software-defined-vehicle-revolution/",
+      "canonical_url": "https://ipsnews.net/business/2026/05/15/micware-co-ltd-enters-the-public-markets-at-the-center-of-the-software-defined-vehicle-revolution",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T18:54:51Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "786bd2d6166fcf97",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.gadgets360.com/laptops/features/from-ai-hype-to-everyday-utility-vineet-gehani-explains-hp-vision-for-the-next-pc-era-11499235",
+      "canonical_url": "https://www.gadgets360.com/laptops/features/from-ai-hype-to-everyday-utility-vineet-gehani-explains-hp-vision-for-the-next-pc-era-11499235",
+      "title": "From AI Hype to Everyday Utility: Vineet Gehani Explains HP\u2019s Vision for the Next PC Era",
+      "excerpt": "...is still evolving, comparing it to the early evolution of the internet, when connected computing itself was still finding mainstream utility.\u201cThis is a little bit like what happened about 20-25 years back when internet evolved,\u201d he said. \u201cRight...",
+      "author": "",
+      "posted_at": "2026-05-15T08:17:44Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "3e519ee091737654",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://go.chinesewire.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://go.chinesewire.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "d79482406b88f4d4",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.panews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.panews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "8ebb7e36565752f1",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.picayuneitem.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.picayuneitem.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Picayune Item",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "2aabfb4fa2de4779",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.southwestdailynews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.southwestdailynews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "51981b1093b63d9c",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.thecharlottegazette.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.thecharlottegazette.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "The Charlotte Gazette",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "96828a0a6389170a",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.middlesboronews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.middlesboronews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Middlesboro News",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "ee9283709bc4c609",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://pr.southsaltlakejournal.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://pr.southsaltlakejournal.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "1289fdf22f7ff60b",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.claiborneprogress.net/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.claiborneprogress.net/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Claiborne Progress",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "94437e419c60585b",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.andalusiastarnews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.andalusiastarnews.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "8ae9114075ed12e0",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://pr.valleyjournals.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://pr.valleyjournals.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "0d7d92068bb88469",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.ourdavie.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.ourdavie.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "df570ab4430aad35",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.theleesvilleleader.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.theleesvilleleader.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "24924afef9d0097c",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.jessaminejournal.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.jessaminejournal.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Jessamine Journal",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "0ff91ee3e0fc9476",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.lobservateur.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.lobservateur.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "2f263aa6a354a0a5",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.tryondailybulletin.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.tryondailybulletin.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "The Tryon Daily Bulletin",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "48454b26cff26d42",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.atmoreadvance.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.atmoreadvance.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "e8805b743a651068",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.leaderpub.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.leaderpub.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "72100a4c1f7b8c01",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.farmvilleherald.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.farmvilleherald.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "The Farmville Herald",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "f23848fbda364515",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://pr.microcapstockpicks.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://pr.microcapstockpicks.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "d62c30dbe88f1512",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.brewtonstandard.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.brewtonstandard.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Micware Co. Ltd. Enters the Public Markets at the Center of the Software-Defined Vehicle Revolution...",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "eb042e585331915c",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://pr.washingtoncitypaper.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://pr.washingtoncitypaper.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Washington City Paper",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "03f744cd8029c5e0",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.salisburypost.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.salisburypost.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Salisbury Post",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "fabfe0ca6469d3bb",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://smb.americustimesrecorder.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "canonical_url": "https://smb.americustimesrecorder.com/article/Micware-Co-Ltd-Enters-the-Public-Markets-at-the-Center-of-the-Software-Defined-Vehicle-Revolution?storyId=6a076cd1c5bb580002c4991e",
+      "title": "Americus Times-Recorder",
+      "excerpt": "...broader thesis is straightforward: as vehicles evolve into software-defined connected computing environments, companies already embedded inside OEM software ecosystems may become strategically valuable infrastructure providers.Micware appears to...",
+      "author": "",
+      "posted_at": "2026-05-15T04:54:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
     },
     {
       "id": "5a3e1945b9d63496",
-      "source": "talkwalker_vanderbilt_and_cc",
+      "source": "talkwalker_college_of_connected_computing",
       "source_tier": 0,
       "platform": "web",
       "url": "https://www.miragenews.com/2026-spring-staff-assembly-celebrates-1673971/",
       "canonical_url": "https://www.miragenews.com/2026-spring-staff-assembly-celebrates-1673971",
       "title": "2026 Spring Staff Assembly Celebrates Collaboration",
-      "excerpt": "...Auditorium event. &quot;From our College of Connected Computing to our planned innovation district here in Nashville, to the... Sarah Beck, an associate project manager with the College of Connected Computing , received the award.In an environment...",
+      "excerpt": "...Langford Auditorium event. &quot;From our College of Connected Computing to our planned innovation district here in Nashville, to... Sarah Beck, an associate project manager with the College of Connected Computing , received the award.In an environment...",
       "author": "",
       "posted_at": "2026-05-14T19:36:54Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -151,7 +1176,239 @@
           "kind": "org"
         }
       ],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "9f7a9d720f00b80b",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://community.startuptalky.com/discussions/post/microsoft-has-just-fired-the-head-of-its-israeli-subsidiary-along-with-zaykZDi3T0Hti8b",
+      "canonical_url": "https://community.startuptalky.com/discussions/post/microsoft-has-just-fired-the-head-of-its-israeli-subsidiary-along-with-zaykZDi3T0Hti8b",
+      "title": "Microsoft has just fired the head of its Israeli subsidiary along with several other managers after...",
+      "excerpt": "Most people still think of cloud platforms as business software and remote storage. In reality, they\u2019re giant globally connected computing environments capable of storing, correlating, analysing, and processing surveillance data at scales...",
+      "author": "",
+      "posted_at": "2026-05-14T08:38:54Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "81fd8d42e4f9b6cd",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://kalkinemedia.com/uk/stocks/technology/raspberry-pi-move-sparks-fresh-market-debate",
+      "canonical_url": "https://kalkinemedia.com/uk/stocks/technology/raspberry-pi-move-sparks-fresh-market-debate",
+      "title": "Raspberry Pi Move Sparks Fresh Market Debate",
+      "excerpt": "The company remains tied to several powerful market themes including digital learning, automation, embedded systems, and connected computing infrastructure. Those structural trends continue supporting visibility for British technology firms...",
+      "author": "",
+      "posted_at": "2026-05-14T07:41:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "9b077b71ce291011",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://itmatterss.in/gadget-world/googlebook-gemini-intelligence-ai-laptop/",
+      "canonical_url": "https://itmatterss.in/gadget-world/googlebook-gemini-intelligence-ai-laptop",
+      "title": "Google Unveils Googlebook With Gemini-powered Magic Pointer",
+      "excerpt": "The company says it is combining the Android ecosystem with ChromeOS to create a more connected computing experience. That means users get Android apps from Google Play alongside Chrome\u2019s web-focused experience. However, the bigger focus is...",
+      "author": "",
+      "posted_at": "2026-05-13T12:13:49Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "2380b75c62b3b690",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.articlescad.com/programmable-logic-controller-market-key-drivers-restraints-and-opportunities-142725.html",
+      "canonical_url": "https://www.articlescad.com/programmable-logic-controller-market-key-drivers-restraints-and-opportunities-142725.html",
+      "title": "Programmable Logic Controller Market: Key Drivers, Restraints, and Opportunities",
+      "excerpt": "...operations. The evolution of PLCs from basic machine controllers to intelligent, connected computing systems is reshaping how industries manage production, monitor assets, and optimize performance.Market Overview and EvolutionHistorically, the...",
+      "author": "",
+      "posted_at": "2026-05-13T04:38:12Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "b6813dc0097d2a6c",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://appleworld.today/2026/05/would-you-buy-a-15-inch-or-bigger-ipad-pro/",
+      "canonical_url": "https://appleworld.today/2026/05/would-you-buy-a-15-inch-or-bigger-ipad-pro",
+      "title": "Would you buy a 15-inch (or bigger) iPad Pro?",
+      "excerpt": "Even low-cost entertainment slate tablets have caught a piece of the boom in tablet demand,\u201d says Eric Smith, director, Connected Computing at Strategy Analytics. \u201cSmall sized tablet demand is declining as large smartphones/phablets continue to put...",
+      "author": "",
+      "posted_at": "2026-05-12T11:11:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "27a40b4f23978f7a",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://fr.audiofanzine.com/interface-midi/iconnectivity/mioxl/petites-annonces/i.3619901.html",
+      "canonical_url": "https://fr.audiofanzine.com/interface-midi/iconnectivity/mioxl/petites-annonces/i.3619901.html",
+      "title": "Vente iConnectivity mioXL occasion (Bavi\u00e8re)",
+      "excerpt": "...and USB ports as well as any other connected computing devices; connect multiple computers via expandable virtual network...",
+      "author": "",
+      "posted_at": "2026-05-11T21:32:36Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "68961f10fb8fc05b",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://neotizen.news/muxcard-1mm-thick-credit-card-computer-with-eink-esp32-c3/",
+      "canonical_url": "https://neotizen.news/muxcard-1mm-thick-credit-card-computer-with-eink-esp32-c3",
+      "title": "Muxcard: 1mm-Thick Credit-Card Computer with eInk, ESP32-C3",
+      "excerpt": "...ESP32-C3 eInk project ideas and tutorialsConclusion: A New shape for Tiny, Connected Computing Muxcard showcases what\u2019s possible when you merge a low-power eInk display with the connectivity and developer ecosystem of the ESP32\u2011C3-all in a...",
+      "author": "",
+      "posted_at": "2026-05-11T11:26:56Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "d59c043a0581d469",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/hp-expands-ai-pc-and-workplace-portfolio-in-india-with-over-20-new-products/articleshow/131008558.cms",
+      "canonical_url": "https://economictimes.indiatimes.com/magazines/panache/hp-expands-ai-pc-and-workplace-portfolio-in-india-with-over-20-new-products/articleshow/131008558.cms",
+      "title": "HP Expands AI PC and workplace portfolio in India with over 20 new products",
+      "excerpt": "Vineet Gehani, Senior Director for Personal Systems at HP India, said the company sees growing demand for flexible and connected computing experiences as hybrid work models continue to evolve.Workstations and Enterprise InfrastructureBeyond...",
+      "author": "",
+      "posted_at": "2026-05-11T08:33:00Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
+      "score": 0.45,
+      "raw_score": 0.45,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": -0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
     },
     {
       "id": "b56d29323297d492",
@@ -164,7 +1421,7 @@
       "excerpt": "Vanderbilt faculty like Associate Dean for Research Abhishek Dubey are on the leading edge of investigation and development of AI. Dubey, also director of the SCOPE lab, develops advanced AI-driven frameworks and decision-making methods to improve public safety, transportation and infrastructure. Read more about Dubey, his research and his commitment to connecting academia and industry for the advancement of society.",
       "author": "Reagan Villet",
       "posted_at": "2026-04-24T17:21:04Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -180,7 +1437,7 @@
           "kind": "person_or_center"
         }
       ],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "f20f8d441f6faecc",
@@ -193,7 +1450,7 @@
       "excerpt": "Athletic Director and Vice Chancellor for Athletics Candice Story Lee sets on her on sights on what she wants Vanderbilt sports to be.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T23:33:57Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -203,7 +1460,7 @@
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "924f06b73e0c952d",
@@ -216,7 +1473,7 @@
       "excerpt": "Daniel Huddleston, BA\u201994 has translated eight Japanese science fiction novels.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T15:34:08Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -226,7 +1483,7 @@
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "629abca895c1a7b2",
@@ -239,7 +1496,7 @@
       "excerpt": "Cornelius Vanderbilt, whose $1 million gift established the university in 1873, earned the nickname \u201cthe Commodore\u201d while building a vast transportation empire that included ships and railroads. The university\u2019s athletes were nicknamed the Commodores as early as 1898 by newspaperman and football alumnus William E. Beard. In a 1915 Tennessee American cartoon after Vanderbilt\u2019s gridiron [&#8230;]",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:46Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -249,7 +1506,7 @@
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "770e79e98845ce64",
@@ -262,7 +1519,7 @@
       "excerpt": "Late in 2025, Jennifer and Marc Lipschultz committed a landmark collection of nearly 5,000 photographs to the Vanderbilt University Museum of Art.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:38Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -272,7 +1529,7 @@
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "97b674502b812be3",
@@ -285,7 +1542,7 @@
       "excerpt": "Corey and Michelle Harris' gift for Pre-Vet Students, Athletics and Campus Life was inspired by their daughter's journey.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-05-18T12:31:38Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -295,7 +1552,7 @@
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     },
     {
       "id": "ea61b2b629ef3d7a",
@@ -308,7 +1565,7 @@
       "excerpt": "By Jennifer Kiilerich Tatiana Peredo, research assistant professor of special education at Vanderbilt Peabody College of education and human development, has been selected for a Fulbright U.S. Scholar award to Chile for the 2026\u201327 academic year. It is Peredo\u2019s second time receiving the renowned federal award, which aims to promote innovation globally and build relationships [&#8230;]",
       "author": "Jennifer Kiilerich-Hansen",
       "posted_at": "2026-05-18T12:00:41Z",
-      "fetched_at": "2026-05-19T01:52:27.851282Z",
+      "fetched_at": "2026-05-19T03:10:24.029763Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -318,53 +1575,53 @@
         "cooccurrence_bonus": 0.0
       },
       "matched_entities": [],
-      "scoring_version": "1.3"
+      "scoring_version": "1.4"
     }
   ],
   "linkedin_saved_searches": [],
   "collector_status": {
     "vu_news_ccc": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 168.0
     },
     "vu_news": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "computing_vanderbilt": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_ccc": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 23,
       "expected_max_silence_hours": 168.0
     },
     "google_news_amplify": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 7,
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_amplify_genai": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -372,15 +1629,15 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_connected_computing": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_matthew_johnson_roberson": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -388,23 +1645,23 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": null,
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 0,
+      "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "talkwalker_amplify_genai": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_amplify_innovation_center": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -412,23 +1669,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_college_of_connected_computing": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": null,
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 0,
+      "posts_fetched": 2,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_connected_computing": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 50,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_vanderbilt_ccc": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -436,23 +1693,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt_and_cc": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_matthew_johnson_roberson": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
       "posts_fetched": 22,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_data_science_institute": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -460,7 +1717,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jesse_spencer_smith": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -468,15 +1725,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jules_white": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": null,
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 0,
+      "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_padma_raghavan": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -484,7 +1741,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_abhishek_dubey": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -492,7 +1749,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_genai_minor": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -500,7 +1757,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_ds_minor": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -508,11 +1765,11 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt": {
-      "last_run": "2026-05-19T01:52:27.851282Z",
-      "last_success_with_results": "2026-05-19T01:52:27.851282Z",
+      "last_run": "2026-05-19T03:10:24.029763Z",
+      "last_success_with_results": "2026-05-19T03:10:24.029763Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 100,
+      "posts_fetched": 193,
       "expected_max_silence_hours": 24.0
     }
   }
