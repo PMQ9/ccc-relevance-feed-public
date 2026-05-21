@@ -1,0 +1,320 @@
+/*
+  Static dashboard stylesheet. No JS frameworks, no CDN dependencies.
+  Loaded by index.html (the shell) via <link rel="stylesheet" href="app.<hash>.css">.
+  Safe to view via file:// or behind SSO.
+
+  Theme tokens are scoped so that:
+    - html[data-theme="auto"] follows the OS via prefers-color-scheme (default).
+    - html[data-theme="dark"] forces dark regardless of OS.
+    - html[data-theme="light"] forces light regardless of OS.
+  body[data-mode="user"] hides verbose dev-only elements; "dev" shows them.
+  Both preferences persist via localStorage (see app.js).
+
+  This file is content-hashed by render.py. Any change here flips the hash and
+  produces a new filename — keep it free of dynamic content.
+*/
+:root {
+  --bg: #0f172a;
+  --panel: #1e293b;
+  --panel-2: #273449;
+  --text: #e2e8f0;
+  --text-dim: #94a3b8;
+  --accent: #f59e0b;
+  --accent-dim: #b45309;
+  --good: #10b981;
+  --warn: #f59e0b;
+  --bad:  #ef4444;
+  --tier-0: #64748b;
+  --tier-1: #0ea5e9;
+  --tier-2: #a855f7;
+  --row-border: #334155;
+  --focus: #f59e0b;
+}
+@media (prefers-color-scheme: light) {
+  html[data-theme="auto"] {
+    --bg: #f8fafc;
+    --panel: #ffffff;
+    --panel-2: #f1f5f9;
+    --text: #0f172a;
+    --text-dim: #475569;
+    --row-border: #e2e8f0;
+    --focus: #b45309;
+  }
+}
+html[data-theme="light"] {
+  --bg: #f8fafc;
+  --panel: #ffffff;
+  --panel-2: #f1f5f9;
+  --text: #0f172a;
+  --text-dim: #475569;
+  --row-border: #e2e8f0;
+  --focus: #b45309;
+}
+html[data-theme="dark"] {
+  --bg: #0f172a;
+  --panel: #1e293b;
+  --panel-2: #273449;
+  --text: #e2e8f0;
+  --text-dim: #94a3b8;
+  --row-border: #334155;
+  --focus: #f59e0b;
+}
+body[data-mode="user"] .dev-only { display: none !important; }
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg); color: var(--text);
+  font-size: 14px; line-height: 1.4;
+}
+header {
+  padding: 16px 24px; background: var(--panel);
+  border-bottom: 1px solid var(--row-border);
+  display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap;
+}
+header h1 { margin: 0; font-size: 18px; }
+header .meta { color: var(--text-dim); font-size: 12px; }
+.controls {
+  margin-left: auto;
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+}
+.controls label { color: var(--text-dim); font-size: 12px; }
+.controls input[type=range] { width: 140px; }
+.controls input[type=text] {
+  background: var(--panel-2); color: var(--text);
+  border: 1px solid var(--row-border); border-radius: 4px;
+  padding: 4px 8px; font-size: 12px; width: 200px;
+}
+.toggle-btn {
+  cursor: pointer;
+  background: var(--panel-2); color: var(--text);
+  border: 1px solid var(--row-border); border-radius: 4px;
+  font-size: 12px; padding: 4px 10px;
+  min-height: 28px; min-width: 88px;
+  font-family: inherit;
+}
+.toggle-btn:hover { border-color: var(--accent); }
+.toggle-btn[aria-pressed="true"] {
+  background: var(--accent); color: #0f172a; border-color: var(--accent);
+}
+select.toggle-btn { min-width: 0; padding-right: 6px; }
+*:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+/* Score-info: hover/focus tooltip explaining the 0-10 scoring.
+   Accessibility:
+     - Real <button> so it's keyboard-focusable and announced by AT.
+     - Target size 24x24 meets WCAG 2.2 SC 2.5.8.
+     - aria-describedby links the button to the tooltip content.
+     - Shown on :hover, :focus-within, or programmatic data-open=true.
+     - Dismissable via Escape (WCAG 1.4.13). */
+.score-info { position: relative; display: inline-flex; align-items: center; }
+.info-btn {
+  width: 24px; height: 24px; padding: 0;
+  border-radius: 50%;
+  border: 1px solid var(--row-border);
+  background: var(--panel-2); color: var(--text);
+  font: italic 700 12px/1 Georgia, "Times New Roman", serif;
+  cursor: help;
+  display: inline-flex; align-items: center; justify-content: center;
+}
+.info-btn:hover, .info-btn:focus-visible { border-color: var(--accent); }
+.info-tooltip {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 280px; max-width: min(280px, 90vw);
+  background: var(--panel); color: var(--text);
+  border: 1px solid var(--row-border); border-radius: 6px;
+  padding: 10px 12px; font-size: 12px; line-height: 1.5;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+  z-index: 20;
+  display: none;
+  text-align: left;
+}
+.score-info:hover .info-tooltip,
+.score-info:focus-within .info-tooltip,
+.info-tooltip[data-open="true"] { display: block; }
+.info-tooltip p { margin: 0 0 6px; }
+.info-tooltip p:last-child { margin-bottom: 0; }
+.info-tooltip .muted { color: var(--text-dim); font-size: 11px; }
+
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}
+main { padding: 16px 24px; max-width: 1200px; margin: 0 auto; }
+
+.info-bar {
+  background: var(--panel); border: 1px solid var(--row-border); border-radius: 6px;
+  padding: 12px 16px; margin-bottom: 16px;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 16px; row-gap: 6px;
+  font-size: 13px;
+}
+.info-bar .lbl {
+  color: var(--text-dim); font-size: 11px; text-transform: uppercase;
+  letter-spacing: 0.5px; align-self: center;
+}
+.info-bar .val { color: var(--text); }
+.info-bar .sources-list {
+  display: flex; flex-wrap: wrap; gap: 6px 12px;
+}
+.info-bar .src {
+  background: var(--panel-2); border: 1px solid var(--row-border);
+  padding: 2px 8px; border-radius: 3px; font-size: 11px;
+  color: var(--text); display: inline-flex; gap: 6px; align-items: baseline;
+}
+.info-bar .src .age { color: var(--text-dim); font-size: 10px; }
+.info-bar .src.stale { border-color: var(--bad); }
+.info-bar .src.stale .age { color: var(--bad); }
+
+.freshness-banner {
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid var(--bad);
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.freshness-banner .title {
+  font-weight: 600; color: var(--bad); margin-bottom: 4px;
+}
+.freshness-banner ul { margin: 4px 0 0; padding-left: 20px; font-size: 13px; }
+.freshness-banner li { color: var(--text-dim); }
+.freshness-banner li code { color: var(--text); }
+
+.summary {
+  background: var(--panel); border: 1px solid var(--row-border); border-radius: 6px;
+  padding: 12px 16px; margin-bottom: 16px;
+  display: flex; gap: 24px; flex-wrap: wrap;
+}
+.summary .stat { display: flex; flex-direction: column; }
+.summary .stat .n { font-size: 20px; font-weight: 600; }
+.summary .stat .lbl { color: var(--text-dim); font-size: 11px; text-transform: uppercase; }
+
+.linkedin-cards {
+  background: var(--panel); border: 1px solid var(--row-border); border-radius: 6px;
+  padding: 12px 16px; margin-bottom: 16px;
+}
+.linkedin-cards h2 {
+  margin: 0 0 8px; font-size: 13px; font-weight: 600;
+  color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px;
+}
+.linkedin-cards .cards {
+  display: flex; gap: 8px; flex-wrap: wrap;
+}
+.linkedin-cards .card {
+  background: var(--panel-2); border: 1px solid var(--row-border); border-radius: 4px;
+  padding: 8px 12px; font-size: 12px;
+  text-decoration: none; color: var(--text);
+  display: flex; flex-direction: column; gap: 2px; min-width: 180px;
+}
+.linkedin-cards .card:hover { border-color: var(--accent); }
+.linkedin-cards .card .label { font-weight: 600; }
+.linkedin-cards .card .desc { color: var(--text-dim); font-size: 11px; }
+
+.day-group { margin-bottom: 24px; }
+.day-group h2 {
+  margin: 16px 0 8px; font-size: 13px; font-weight: 600;
+  color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px;
+}
+.post {
+  background: var(--panel); border: 1px solid var(--row-border); border-radius: 6px;
+  padding: 12px 14px; margin-bottom: 8px;
+  display: grid;
+  grid-template-columns: 60px 1fr auto;
+  gap: 12px; align-items: start;
+}
+.post.dismissed { opacity: 0.45; }
+.post.promoted  { border-left: 3px solid var(--good); }
+.score-cell { text-align: center; }
+.score-cell .num { font-size: 22px; font-weight: 700; }
+.score-cell .num.high { color: var(--good); }
+.score-cell .num.mid  { color: var(--warn); }
+.score-cell .num.low  { color: var(--text-dim); }
+.score-cell .components {
+  font-size: 10px; color: var(--text-dim);
+  margin-top: 2px;
+}
+.post-body .title { font-weight: 600; font-size: 15px; margin-bottom: 4px; }
+.post-body .title a { color: var(--text); text-decoration: none; }
+.post-body .title a:hover { text-decoration: underline; }
+.post-body .excerpt { color: var(--text-dim); font-size: 13px; }
+.post-body .meta {
+  margin-top: 6px; font-size: 11px; color: var(--text-dim);
+  display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+}
+.badge {
+  display: inline-block; padding: 1px 8px; border-radius: 10px;
+  font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px;
+  background: var(--panel-2); color: var(--text-dim);
+}
+.badge.tier-0 { background: var(--tier-0); color: white; }
+.badge.tier-1 { background: var(--tier-1); color: white; }
+.badge.tier-2 { background: var(--tier-2); color: white; }
+.badge.platform { background: var(--panel-2); color: var(--text); border: 1px solid var(--row-border); }
+.entities { margin-top: 4px; display: flex; gap: 4px; flex-wrap: wrap; }
+.entity {
+  background: var(--panel-2); border: 1px solid var(--row-border);
+  padding: 1px 6px; border-radius: 3px; font-size: 11px;
+  color: var(--text);
+}
+.actions { display: flex; flex-direction: column; gap: 4px; align-items: stretch; }
+.actions button {
+  cursor: pointer; padding: 4px 10px; font-size: 11px;
+  background: var(--panel-2); color: var(--text);
+  border: 1px solid var(--row-border); border-radius: 4px;
+  min-width: 80px;
+}
+.actions button:hover { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+.actions .open-link {
+  text-decoration: none; text-align: center;
+  background: var(--accent-dim); color: white; border-color: var(--accent-dim);
+}
+.actions .open-link:hover { background: var(--accent); }
+.footer {
+  color: var(--text-dim); font-size: 11px; padding: 24px 0 8px; text-align: center;
+}
+.empty { color: var(--text-dim); padding: 32px; text-align: center; }
+
+/* Undated / static-page block: collapsed by default. These tend to be
+   faculty bios, dept landing pages, etc. — high-score but not news. */
+.undated-block { margin-top: 16px; }
+.undated-block > summary {
+  cursor: pointer; list-style: none;
+  padding: 8px 12px; margin-bottom: 8px;
+  background: var(--panel-2); border: 1px solid var(--row-border);
+  border-radius: 6px;
+  color: var(--text-dim); font-size: 13px; font-weight: 600;
+  user-select: none;
+}
+.undated-block > summary:hover { color: var(--text); border-color: var(--accent-dim); }
+.undated-block > summary::-webkit-details-marker { display: none; }
+.undated-block > summary::before {
+  content: "▸"; display: inline-block; margin-right: 8px;
+  transition: transform 0.15s ease;
+}
+.undated-block[open] > summary::before { transform: rotate(90deg); }
+.undated-block > summary .count { color: var(--text-dim); font-weight: 400; }
+.undated-group h2 { display: none; }  /* no per-day heading inside undated */
+
+/* Error fallback shown when fetch('./feed.json') fails or returns bad data.
+   Without this, a network glitch leaves the page blank. */
+.feed-error {
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid var(--bad);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  color: var(--text);
+}
+.feed-error .title {
+  font-weight: 600; color: var(--bad); margin-bottom: 4px;
+}
+.feed-error .detail { color: var(--text-dim); font-size: 12px; }
+.feed-error a { color: var(--accent); }
