@@ -1,0 +1,53 @@
+name: Feedback
+description: Open-ended feedback — what worked, what didn't, suggestions.
+title: "[Feedback]: "
+labels: ["feedback", "triage"]
+assignees: ["PMQ9"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us how it's going. This template is intentionally light — write whatever
+        is on your mind. If something turns into a bug or feature request later, we'll
+        convert it.
+
+  - type: dropdown
+    id: feedback_type
+    attributes:
+      label: What kind of feedback is this?
+      options:
+        - Positive — something is working well
+        - Negative — something is frustrating or confusing
+        - Mixed — both
+        - Suggestion — an improvement idea
+        - Other
+      default: 2
+    validations:
+      required: true
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: In your own words.
+    validations:
+      required: true
+
+  - type: input
+    id: who
+    attributes:
+      label: Who is this feedback from?
+      description: Your role / team / context, if relevant.
+      placeholder: "e.g., marcomms staff, faculty, end user"
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Where did this come up? Screenshots, links, related conversations.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else worth capturing.

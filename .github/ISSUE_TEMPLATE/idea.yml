@@ -1,0 +1,47 @@
+name: Idea / discussion
+description: A half-formed idea worth talking through before it becomes a feature request.
+title: "[Idea]: "
+labels: ["idea", "discussion"]
+assignees: ["PMQ9"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This template is for ideas that aren't fully baked yet. If you can already
+        describe what "done" looks like, use the **Feature request** template instead.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: Describe the idea in your own words. Rough is fine.
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why this might matter
+      description: What problem or opportunity is this poking at? Who would benefit?
+
+  - type: textarea
+    id: open_questions
+    attributes:
+      label: Open questions
+      description: What's unclear? What would you need to figure out before this becomes a real proposal?
+      value: |
+        - [ ]
+        - [ ]
+        - [ ]
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Inspiration / references
+      description: Links to similar tools, articles, conversations, or examples that sparked this.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else worth capturing.

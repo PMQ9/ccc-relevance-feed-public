@@ -1,0 +1,82 @@
+name: Bug report
+description: Something is broken or behaving incorrectly.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+assignees: ["PMQ9"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a bug. The more concrete you can be,
+        the faster we can fix it. If you're not sure whether something is a bug,
+        file it anyway — we'd rather sort it on our end.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two sentences describing what's wrong.
+      placeholder: "When I do X, Y happens instead of Z."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: A numbered list of the exact steps to trigger the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Observe '...'
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What actually happened? Include error messages or stack traces if you have them.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How badly does this bug affect users?
+      options:
+        - Low — minor annoyance, workaround exists
+        - Medium — degraded experience, some users affected
+        - High — major feature broken or many users affected
+        - Critical — outage, data loss, or security impact
+      default: 1
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, browser, version, deployment (prod/staging/local), etc.
+      placeholder: "macOS 14.5 / Chrome 126 / production"
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Screenshots, logs, or references
+      description: Attach screenshots, log excerpts, related issues, or links.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else worth capturing.

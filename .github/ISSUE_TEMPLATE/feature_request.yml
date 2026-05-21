@@ -1,0 +1,72 @@
+name: Feature request
+description: A concrete, scoped feature proposal.
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+assignees: ["PMQ9"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template when you have a specific feature in mind and can describe
+        what "done" looks like. For half-formed thoughts, use the **Idea / discussion**
+        template instead — that one's for shaping things.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem does this feature solve? Who hits it and how often?
+      placeholder: "Today, when staff need to do X, they have to Y, which costs Z."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What should we build? Be specific about behavior, inputs, and outputs.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you thought about and why they didn't win.
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: A checklist of conditions that must be true for this to be "done."
+      value: |
+        - [ ]
+        - [ ]
+        - [ ]
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How urgent is this from the requester's perspective?
+      options:
+        - Nice to have
+        - Should have
+        - Must have — current work is blocked
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context, references, mockups
+      description: Links to related issues, screenshots, mockups, prior conversations.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else worth capturing.

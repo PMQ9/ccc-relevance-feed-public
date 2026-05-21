@@ -1,0 +1,7 @@
+# Blank issues are still allowed.
+blank_issues_enabled: true
+
+contact_links:
+  - name: Email the maintainer
+    url: mailto:quang.m.pham@vanderbilt.edu
+    about: For sensitive reports or anything that shouldn't be a public GitHub issue.
