@@ -25,7 +25,7 @@
       .replace(/'/g, "&#x27;");
   }
 
-  /* ---------- Cron parsing — mirrors _expand_cron_field / _next_cron_tick. */
+  /* ---------- Cron parsing — next scheduled tick from the cron meta tag ---------- */
   function expandCronField(expr, lo, hi) {
     const out = new Set();
     for (let part of String(expr || "").split(",")) {
