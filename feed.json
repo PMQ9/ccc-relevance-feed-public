@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-30T18:21:19.632895Z",
+  "generated_at": "2026-06-30T18:36:19.282988Z",
   "scoring_version": "1.4",
   "posts": [
     {
@@ -53,7 +53,7 @@
       "excerpt": "Andrew Schwartz, Co-Senior Author and Associate Professor of Computer Science and Psychology at Vanderbilt University\u2019s College of Connected Computing , says: \u201cLanguage models are now ubiquitous behind programs like ChatGPT and Claude, but they...",
       "author": "",
       "posted_at": "2026-06-25T01:22:13Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 1.0,
       "raw_score": 1.1,
       "components": {
@@ -219,7 +219,7 @@
       "excerpt": "&gt;Matthew Johnson-Roberson (Vanderbilt University) - The founding dean of Vanderbilt\u2019s College of Connected Computing , says robotics is still missing something fundamental.Sergey Levine (Physical Intelligence) - The buzzy physical AI startup is...",
       "author": "",
       "posted_at": "2026-05-28T15:16:59Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 1.0,
       "raw_score": 1.25,
       "components": {
@@ -341,7 +341,7 @@
       "excerpt": "...founding dean of Vanderbilt\u2019s College of Connected Computing , about why physical AI may not follow the same playbook as... Finally, Matthew reflects on building Vanderbilt\u2019s new College of Connected Computing , why higher ed can take on 30- and...",
       "author": "",
       "posted_at": "2026-05-20T17:41:51Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 1.0,
       "raw_score": 1.25,
       "components": {
@@ -1094,7 +1094,7 @@
       "excerpt": "...psychology at Vanderbilt University's College of Connected Computing .Different prompts can make the personality... Andrew Schwartz is at Vanderbilt University's College of Connected Computing , alongside Adithya V. Ganesan, Swanie Juhng...",
       "author": "",
       "posted_at": "2026-06-08T08:50:32Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.95,
       "raw_score": 0.95,
       "components": {
@@ -1318,7 +1318,7 @@
       "excerpt": "On June 3, Vanderbilt University\u2019s College of Connected Computing and Blair School of Music hosted an inspiring gathering at Vanderbilt University\u2013New York City, bringing together alumni and friends to explore the future of music in the digital age. The evening highlighted the intersection of the arts and technology, underscoring Vanderbilt\u2019s commitment to fostering and amplifying radical collaboration and innovation across disciplines.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-23T14:00:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.8,
       "raw_score": 0.8,
       "components": {
@@ -1376,7 +1376,7 @@
       "excerpt": "Vanderbilt University\u2019s College of Connected Computing is launching a new Master of Science in Artificial Intelligence; a fully online degree built for working professionals across every field who want to influence how artificial intelligence is used in their organizations.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-22T16:25:48Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.8,
       "raw_score": 0.8,
       "components": {
@@ -1507,7 +1507,7 @@
       "excerpt": "This was originally published in the Automated with Brian Heater podcast. Automated is A3\u2019s weekly conversation with the people shaping the future of automation. &#160; &#160; Physical AI is moving fast. But Matthew Johnson-Roberson says robotics is still missing something fundamental. The field has data, models, and momentum, but it still does not have the [&#8230;]",
       "author": "Natalie Arana",
       "posted_at": "2026-05-26T17:49:01Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.8,
       "raw_score": 0.8,
       "components": {
@@ -1794,7 +1794,7 @@
       "excerpt": "... Matthew Johnson-Roberson , Xiaonan Huang. View a PDF of the paper titled One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation&nbsp;...",
       "author": "",
       "posted_at": "2026-06-30T05:00:52Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -1828,7 +1828,7 @@
       "excerpt": "...of Medicine Basic Sciences, while enabling a stronger connection with the College of Connected Computing . Offering two levels below grade and a mechanical penthouse, the 10-story development aims to catalyze radical collaboration that will...",
       "author": "",
       "posted_at": "2026-06-29T05:03:30Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2002,7 +2002,7 @@
       "excerpt": "...stronger collaborative environment for computational partnerships with the College of Connected Computing , accelerating data-driven discovery across the university.Flexible research spaces will adapt to evolving scientific needs, ensuring that...",
       "author": "",
       "posted_at": "2026-06-17T15:36:18Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2060,7 +2060,7 @@
       "excerpt": "...StatementOur mission is to empower faculty, staff, and students in the College of Connected Computing at Vanderbilt University to pursue groundbreaking research. We provide expert support across the full research life cycle, from proposal...",
       "author": "",
       "posted_at": "2026-06-03T22:13:38Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2147,7 +2147,7 @@
       "excerpt": "Frist is also on the advisory board of The Precisionists Inc., the Dean's Advisory Council for the Vanderbilt University College of Connected Computing , and the advisory board for the Frist Center for Autism and Innovation at Vanderbilt...",
       "author": "",
       "posted_at": "2026-05-27T16:06:53Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2336,7 +2336,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-29T09:00:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2370,7 +2370,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-29T09:00:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2700,7 +2700,7 @@
       "excerpt": "...cybersecurity programs in 2025. Vanderbilt launched a whole new college called the College of Connected Computing , dedicated to AI. Tennessee Tech University is rolling out a bachelor\u2019s degree in artificial intelligence this fall.The AI...",
       "author": "",
       "posted_at": "2026-05-31T10:04:59Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2729,7 +2729,7 @@
       "excerpt": "...six-week program called Prompt Engineering for ChatGPT taught by Dr. Jules White , a computer science professor at Vanderbilt University.Dr. White\u2019s course covers the core frameworks of effective prompting, including persona prompts, where you...",
       "author": "",
       "posted_at": "2026-05-27T12:56:26Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2763,7 +2763,7 @@
       "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
       "author": "",
       "posted_at": "2026-05-18T13:17:56Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2797,7 +2797,7 @@
       "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
       "author": "",
       "posted_at": "2026-05-18T11:50:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2976,6 +2976,64 @@
       "scoring_version": "1.4"
     },
     {
+      "id": "2775c198164ee8cf",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.theworldeducationreport.com/article/923299065-nutanix-and-the-north-carolina-school-of-science-and-mathematics-partner-to-expand-computer-science-access-across-north-carolina",
+      "canonical_url": "https://www.theworldeducationreport.com/article/923299065-nutanix-and-the-north-carolina-school-of-science-and-mathematics-partner-to-expand-computer-science-access-across-north-carolina",
+      "title": "Nutanix and the North Carolina School of Science and Mathematics Partner to Expand Computer Science...",
+      "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
+      "author": "",
+      "posted_at": "2026-06-30T16:14:41Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
+      "score": 0.55,
+      "raw_score": 0.55,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "4cb93b9ade363db0",
+      "source": "talkwalker_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.economicnewsobserver.com/article/923299065-nutanix-and-the-north-carolina-school-of-science-and-mathematics-partner-to-expand-computer-science-access-across-north-carolina",
+      "canonical_url": "https://www.economicnewsobserver.com/article/923299065-nutanix-and-the-north-carolina-school-of-science-and-mathematics-partner-to-expand-computer-science-access-across-north-carolina",
+      "title": "Nutanix and the North Carolina School of Science and Mathematics Partner to Expand Computer Science...",
+      "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
+      "author": "",
+      "posted_at": "2026-06-30T16:10:26Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
+      "score": 0.55,
+      "raw_score": 0.55,
+      "components": {
+        "entity_score": 0.5,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.0
+      },
+      "matched_entities": [
+        {
+          "entity": "Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
       "id": "270a442feca4c6c2",
       "source": "talkwalker_connected_computing",
       "source_tier": 0,
@@ -2986,7 +3044,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T14:24:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3015,7 +3073,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T14:05:58Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3044,7 +3102,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T14:05:33Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3073,7 +3131,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:59:01Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3102,7 +3160,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:52:49Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3131,7 +3189,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:44:06Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3160,7 +3218,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:37:17Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3189,7 +3247,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:18:46Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3218,7 +3276,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:16:56Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3247,7 +3305,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:14:33Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3276,7 +3334,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.'Through NCSSM Connect, my absolute focus is on teaching high school...",
       "author": "",
       "posted_at": "2026-06-30T13:07:05Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3305,7 +3363,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:00:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3334,7 +3392,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:00:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3363,7 +3421,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T13:00:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3392,7 +3450,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T12:40:32Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3421,7 +3479,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T12:36:50Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3450,7 +3508,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T12:21:06Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3479,7 +3537,7 @@
       "excerpt": "...Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North...",
       "author": "",
       "posted_at": "2026-06-30T12:14:09Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3508,7 +3566,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T11:54:53Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3537,7 +3595,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T11:54:33Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3566,7 +3624,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T10:39:43Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3595,7 +3653,7 @@
       "excerpt": "...Computer Science, Intro to Artificial Intelligence and Computational Thinking, and Connected Computing reaching some 100 remote high school students across North Carolina each year.\u201cThrough NCSSM Connect, my absolute focus is on teaching high...",
       "author": "",
       "posted_at": "2026-06-30T10:13:31Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3624,7 +3682,7 @@
       "excerpt": "Together, the companies aim to deliver integrated system-level platforms combining power management, sensing, connected computing , and control for applications such as autonomous vehicles, industrial robotics, AR/VR devices, and intelligent edge...",
       "author": "",
       "posted_at": "2026-06-29T19:56:48Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3653,7 +3711,7 @@
       "excerpt": "Qualcomm Inc., a connected computing player at the center of the AI era, announced that it has reached an agreement to acquire Modular Inc&nbsp;...",
       "author": "",
       "posted_at": "2026-06-29T18:03:03Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3682,7 +3740,7 @@
       "excerpt": "It competed with other networking protocols and required investors to believe not only in a company but in a future of connected computing . Kramlich backed Metcalfe because he saw the force of the idea and the quality of the entrepreneur. Ethernet...",
       "author": "",
       "posted_at": "2026-06-29T13:47:37Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3711,7 +3769,7 @@
       "excerpt": "...drive the global expansion of data center and edge AI compute Qualcomm Inc., a connected computing player at the center of the AI era, announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.\u2019s...",
       "author": "",
       "posted_at": "2026-06-29T12:00:34Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3740,7 +3798,7 @@
       "excerpt": "As SDV capabilities mature, driven by advances in AI, 5G connectivity, edge computing, and sensor fusion, the line between a car and a connected computing platform will blur entirely. The vehicles of the next decade will not simply be modes of...",
       "author": "",
       "posted_at": "2026-06-29T09:36:49Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3769,7 +3827,7 @@
       "excerpt": "Speaking to Reuters, El-Khoury said Synaptics' connected computing platform would help the company address rising demand for increasingly&nbsp;...",
       "author": "",
       "posted_at": "2026-06-29T02:50:23Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3798,7 +3856,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-28T09:00:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3866,7 +3924,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T12:06:43Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3900,7 +3958,7 @@
       "excerpt": "Many users are providing chatbots with &quot;way too little and then expecting it to read their minds,&quot; said Jules White , the director of Vanderbilt University\u00b4s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T10:25:52Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3934,7 +3992,7 @@
       "excerpt": "...advice because they provide insufficient context to the AI, according to Jules White , director of Vanderbilt University\u2019s initiative on the future of learning and generative AI. To move beyond surface-level responses, White suggests using an...",
       "author": "",
       "posted_at": "2026-06-27T10:19:10Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3968,7 +4026,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T10:14:15Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4002,7 +4060,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T10:09:33Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4036,7 +4094,7 @@
       "excerpt": "Moreover, the effectiveness of chatbot advice often hinges on user input. Jules White , director of Vanderbilt University\u2019s generative AI initiative, notes that vague questions lead to generic responses. Users can enhance their interactions by...",
       "author": "",
       "posted_at": "2026-06-27T09:49:38Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4070,7 +4128,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:41:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4104,7 +4162,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:21:14Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4138,7 +4196,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T09:21:09Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4172,7 +4230,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:03:12Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4206,7 +4264,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:02:37Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4240,7 +4298,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:01:15Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4274,7 +4332,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:01:15Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4308,7 +4366,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:01:15Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4342,7 +4400,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:00:23Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4376,7 +4434,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T09:00:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4410,7 +4468,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:00:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4444,7 +4502,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:00:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4478,7 +4536,7 @@
       "excerpt": "...excessively small and past expecting it to publication their minds,\u201d said Jules White , the head of Vanderbilt University\u2019s inaugural connected the early of learning and generative AI.The value of the proposal could alteration importantly based...",
       "author": "",
       "posted_at": "2026-06-27T05:10:28Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4512,7 +4570,7 @@
       "excerpt": "...solutions that integrate the four key elements of Physical AI: power, sensing, connected computing , and control. These technologies are intended to support applications including autonomous vehicles, industrial robotics, augmented and virtual...",
       "author": "",
       "posted_at": "2026-06-26T20:22:55Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4541,7 +4599,7 @@
       "excerpt": "...are increasingly targeting automotive manufacturers as vehicles evolve into connected computing platforms.The breach, which occurred in 2025, brought production to a grinding halt across JLR\u2019s global manufacturing facilities. Assembly lines went...",
       "author": "",
       "posted_at": "2026-06-26T19:07:05Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4570,7 +4628,7 @@
       "excerpt": "The deal aims to integrate power, sensing, and connected computing for edge AI applications.10 stocks we like better ... provider of power, sensing, and now connected computing , following the announcement of an agreement to buy Synaptics...",
       "author": "",
       "posted_at": "2026-06-26T18:59:11Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4599,7 +4657,7 @@
       "excerpt": "The attribution, first reported by , exposes how state-sponsored groups are increasingly targeting automotive manufacturers as vehicles evolve into connected computing platforms.The breach, which occurred in 2025, brought production to a grinding...",
       "author": "",
       "posted_at": "2026-06-26T16:24:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4657,7 +4715,7 @@
       "excerpt": "SAN DIEGO \u2014 Qualcomm Incorporated (NASDAQ: QCOM), a connected computing leader at the center of the AI era, has outlined the acceleration of its diversification strategy and unveiled its comprehensive strategy for the data...",
       "author": "",
       "posted_at": "2026-06-26T15:35:19Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4686,7 +4744,7 @@
       "excerpt": "The transaction is expected to position onsemi at the intersection of power, sensing, connected computing , and control\u2014key elements necessary for real-time intelligent system applications. The deal endeavors to increase onsemi\u2019s total addressable...",
       "author": "",
       "posted_at": "2026-06-26T15:32:22Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4715,7 +4773,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-26T14:34:31Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4749,7 +4807,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with &quot;way too little and then expecting it to read their minds,&quot; said Jules White , the director of Vanderbilt University's initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-26T14:34:31Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4783,7 +4841,7 @@
       "excerpt": "Ask the right questions Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-26T14:34:31Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4846,7 +4904,7 @@
       "excerpt": "The combined company aims to offer integrated systems spanning power, sensing, connected computing and control, targeting applications such as autonomous vehicles, robotics and augmented and virtual reality.onsemi Chief Executive Hassane...",
       "author": "",
       "posted_at": "2026-06-25T21:22:51Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -5658,7 +5716,7 @@
       "excerpt": "...engineering School of Engineering and College of Connected Computing Chang's research focuses on the development of ... pathology, microbiology and immunology College of Connected Computing and School of MedicineHuo's work lies at the...",
       "author": "",
       "posted_at": "2026-06-24T13:55:10Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7920,7 +7978,7 @@
       "excerpt": "In December, it partnered with the EPB to launch the Institute for Quantum Innovation. And in 2024, it launched the College of Connected Computing to focus on computational thinking, AI, and data science.\u201cLast week, Middle Tennessee State...",
       "author": "",
       "posted_at": "2026-05-29T20:23:33Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -8094,7 +8152,7 @@
       "excerpt": "Frist is also on the advisory board of The Precisionists Inc., the Dean\u2019s Advisory Council for the Vanderbilt University College of Connected Computing , and the advisory board for the Frist Center for Autism and Innovation at Vanderbilt...",
       "author": "",
       "posted_at": "2026-05-27T15:58:04Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -8868,7 +8926,7 @@
       "excerpt": "MediaTek seems to believe the future vehicle is less like a machine and more like a giant connected computing device on wheels.The Real StoryMost people still associate MediaTek with smartphones. That\u2019s understandable. But the company\u2019s...",
       "author": "",
       "posted_at": "2026-06-27T10:31:43Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -8897,7 +8955,7 @@
       "excerpt": "...Synaptics has spent years pushing connected computing , human-machine interfaces and edge AI products such as its Astra ... as a strategic fit because it adds connected - computing capabilities, software and ecosystem reach, and a...",
       "author": "",
       "posted_at": "2026-06-27T00:15:19Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -9579,7 +9637,7 @@
       "excerpt": "Through this acquisition, onsemi plans to expand into intelligent systems corporations that bundle power, sensors, connected computing , and control. Physical AI refers to systems in which machines sense data in the real world, make judgments, then...",
       "author": "",
       "posted_at": "2026-06-26T08:31:46Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -9666,7 +9724,7 @@
       "excerpt": "...eligibility at Clemson.Though Mia Moore and Taylor Johnson -Matthews, two women\u2019 s basketball players at Clemson, had ... former Oregon wideout Malik Benson and Vanderbilt quarterback Diego Pavia to make the decision.\u201cThe NCAA granted the...",
       "author": "",
       "posted_at": "2026-06-18T17:46:09Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -9787,7 +9845,7 @@
       "excerpt": "Artificial IntelligenceI am even less familiar with AI. Last year on Coursera, I followed a series of courses by Jules White of Vanderbilt University. The coursework used OpenAI\u2019s ChatGPT to cover the fundamentals of AI\u2019s working plus prompt...",
       "author": "",
       "posted_at": "2026-06-03T13:01:02Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -9913,7 +9971,7 @@
       "excerpt": "In a groundbreaking study published recently in the journal Nature, researchers at Vanderbilt University and Vanderbilt Health have created the first growth charts for white matter in the brain over a human lifetime. The work brings together nearly two decades of Vanderbilt research collaborations, the university\u2019s extensive MRI data collections, and an advanced AI-enabled computing platform.",
       "author": "Reagan Villet",
       "posted_at": "2026-05-27T18:53:47Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -10846,7 +10904,7 @@
       "excerpt": "...Langford Auditorium event. &quot;From our College of Connected Computing to our planned innovation district here in Nashville, to... Sarah Beck, an associate project manager with the College of Connected Computing , received the award.In an environment...",
       "author": "",
       "posted_at": "2026-05-14T19:36:54Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -11136,7 +11194,7 @@
       "excerpt": "...where the biggest failures start. Jules White . director of Vanderbilt University\u2019s initiative on the future of learning and ... advice Hinge Logan Ury Erika Ettin Vanderbilt Jules White Shumer Capital Matt Shumer Arizona State University Liesel Sharabi...",
       "author": "",
       "posted_at": "2026-06-27T09:51:18Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.4,
       "raw_score": 0.4,
       "components": {
@@ -11165,7 +11223,7 @@
       "excerpt": "...to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and...",
       "author": "",
       "posted_at": "2026-06-27T09:24:48Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.4,
       "raw_score": 0.4,
       "components": {
@@ -11871,7 +11929,7 @@
       "excerpt": "...Shruti Jain, Clayton Cohn, Umesh Timalsina, Naveeduddin Mohammed, Jennifer Chiu, Gautam Biswas Poster Session 2 + Interactive Tech &amp; Demos Thursday, June 18, from 4:15\u20135:45 p.m.Democratizing Algebra: Advancing Conceptual Understanding Through...",
       "author": "",
       "posted_at": "2026-06-05T13:41:59Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -11929,7 +11987,7 @@
       "excerpt": "...individual images\u2014an unprecedented data set that has been a central focal point for Bennett Landman , a key contributor to the study whose work has helped standardize and align imaging data across multiple studies. &quot;What's exciting is that these data...",
       "author": "",
       "posted_at": "2026-05-28T17:34:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -12016,7 +12074,7 @@
       "excerpt": "Vanderbilt faculty like Associate Dean for Research Abhishek Dubey are on the leading edge of investigation and development of AI. Dubey, also director of the SCOPE lab, develops advanced AI-driven frameworks and decision-making methods to improve public safety, transportation and infrastructure. Read more about Dubey, his research and his commitment to connecting academia and industry for the advancement of society.",
       "author": "Reagan Villet",
       "posted_at": "2026-04-24T17:21:04Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -12062,6 +12120,64 @@
         },
         {
           "entity": "generative AI",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "29ea9187696325d7",
+      "source": "talkwalker_vanderbilt",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.legalsupportnetwork.co.uk/resource/ilta-and-thomson-reuters-institute-release-landmark-ai-guide-for-legal-professionals/",
+      "canonical_url": "https://www.legalsupportnetwork.co.uk/resource/ilta-and-thomson-reuters-institute-release-landmark-ai-guide-for-legal-professionals",
+      "title": "ILTA and Thomson Reuters Institute release landmark AI guide for legal professionals",
+      "excerpt": "...Practice of Law; Co-Director, Program on Law &amp; Innovation; Founding Co-Director, Vanderbilt AI Law Lab, Dan Surowiec, Global Chief Information Officer, Bryan Cave Leighton Paisner LLP, Doug McGhee, Advanced GenAI Solutions Engineering, Thomson...",
+      "author": "",
+      "posted_at": "2026-06-30T15:29:28Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
+      "score": 0.3,
+      "raw_score": 0.3,
+      "components": {
+        "entity_score": 0.15,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "GenAI",
+          "weight": 0.15,
+          "kind": "keyword"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "815048290293509c",
+      "source": "talkwalker_vanderbilt",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.justsecurity.org/author/vansantenblake/",
+      "canonical_url": "https://www.justsecurity.org/author/vansantenblake",
+      "title": "Blake Van Santen",
+      "excerpt": "Blake Van Santen is an LLM graduate and Vanderbilt scholar at NYU Law. He previously worked as counsel with the Department of Justice of Canada, law clerk at the Federal Court of Appeal of Canada, and legal...",
+      "author": "",
+      "posted_at": "2026-06-30T09:54:55Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
+      "score": 0.3,
+      "raw_score": 0.3,
+      "components": {
+        "entity_score": 0.15,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "LLM",
           "weight": 0.15,
           "kind": "keyword"
         }
@@ -12369,7 +12485,7 @@
       "excerpt": "Vanderbilt\u2019s GenAI Tools: What\u2019s Available and How They\u2019re Being Used &nbsp;&nbsp; Vanderbilt University",
       "author": "",
       "posted_at": "2026-06-02T16:01:00Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.3,
       "raw_score": 0.3,
       "components": {
@@ -13012,7 +13128,7 @@
       "excerpt": "This article was originally posted in Stanford University Human-Centered Artificial Intelligence. Read more. &#160; Today&#8217;s large language models are trained on the aggregate writing of millions of authors. But that also means that LLMs like ChatGPT converge on a narrow, agreeable, mildly positive voice that flattens the variation between one human writer and another. Users [&#8230;]",
       "author": "moakc",
       "posted_at": "2026-06-17T19:05:44Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.2,
       "raw_score": 0.2,
       "components": {
@@ -13074,7 +13190,7 @@
       "excerpt": "Written by: Caitlynn Peetz Stephens This article was originally posted in Education Week. Read more. &#160; For decades, the Metro Nashville schools in Tennessee created district-level jobs organically as the system started programs, responded to evolving student needs, or secured new funding. The result has been an organizational chart that features many employees with similar [&#8230;]",
       "author": "moakc",
       "posted_at": "2026-06-15T20:25:31Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.2,
       "raw_score": 0.2,
       "components": {
@@ -13097,7 +13213,7 @@
       "excerpt": "Blood sugar spikes after lunch aren\u2019t necessarily all about what you just ate\u2014what you had for breakfast might have made a difference. Vanderbilt researchers are analyzing what people eat, and when, and how that affects liver function and blood sugar and insulin levels throughout the day. This may help clinicians better design individual treatments for patients with diabetes.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-30T16:05:25Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13120,7 +13236,7 @@
       "excerpt": "The Vanderbilt community is mourning the death of Adugna Olani, senior lecturer in economics, who died June 15, 2026, at the age of 45. Olani was a revered professor and mentor who had been teaching at Vanderbilt since 2018. Olani was born in Arjo, Ethiopia, and worked as a researcher for the National Bank of [&#8230;]",
       "author": "Amy Wolf",
       "posted_at": "2026-06-30T14:10:07Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13143,7 +13259,7 @@
       "excerpt": "",
       "author": "Jennifer Kiilerich-Hansen",
       "posted_at": "2026-06-29T20:43:56Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13166,7 +13282,7 @@
       "excerpt": "Jad Abumrad, Distinguished Research Professor of Communication of Science and Technology and creator of award-winning series like Radiolab, More Perfect, Dolly Parton\u2019s America and Fela Kuti: Fear No Man, set out in life to be a composer. Perhaps a poet, maybe a fiction writer, but it was music, Abumrad said, that was \u201crunning through me constantly.\u201d",
       "author": "Porsha Thomas",
       "posted_at": "2026-06-26T14:30:20Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13189,7 +13305,7 @@
       "excerpt": "Beginning with the fall 2027 semester, New Content Experience will be the default content design in Brightspace. New Content Experience is a more modern, intuitive design for the Content area of Brightspace courses. Since the Content page is the most used tool by faculty and students, the update brings improvements and better usability to Brightspace courses. New Content Experience provides better support for mobile devices for students and an improved instructor workflow for adding materials to courses.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-24T18:14:27Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13212,7 +13328,7 @@
       "excerpt": "Long evenings, outdoor concerts and community festivals make summer one of the best times to explore Nashville. Vanderbilt University is proud to partner with local nonprofits and cultural organizations to highlight events that welcome students, faculty, staff and the broader Nashville community. From live music in city parks to museum exhibitions and family-friendly celebrations, the season offers plenty of opportunities to experience the creativity that defines Music City.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-22T20:11:07Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13235,7 +13351,7 @@
       "excerpt": "The world\u2019s preeminent scholars of early American history convened at Vanderbilt University June 11\u201313 for the Omohundro Institute\u2019s 29th annual conference, hosted by the Jean and Alexander Heard Libraries. This premier gathering for historians and researchers who focus on American history through the early 19th century featured cutting-edge research, panels and workshops covering \u201cVast Early America\u201d\u2014that is, North America, the Caribbean and the Atlantic world.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-22T19:59:54Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13258,7 +13374,7 @@
       "excerpt": "Check out the initial author lineup for the 2026 Southern Festival of Books!",
       "author": "Amy Wolf",
       "posted_at": "2026-06-18T22:58:03Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13281,7 +13397,7 @@
       "excerpt": "The eyes of some bats may help Vanderbilt researcher Gianni Castiglione develop new ways to protect human sight. Castiglione, assistant professor of biological sciences in the College of Arts and Science and assistant professor of ophthalmology and visual sciences in the School of Medicine, has been named a Pew Biomedical Scholar. The award provides support to advance research that draws on evolutionary adaptations in animals to develop potential therapies for human disease.",
       "author": "Amber Palmer-Halma",
       "posted_at": "2026-06-18T21:28:31Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13304,7 +13420,7 @@
       "excerpt": "Members of the Vanderbilt community gathered at Hawkins Field on Tuesday, June 16, to celebrate the topping out of its new right-field structure. The addition will house private suites, premium seating, two new bars and a new player pitching lab for the stadium that opened in 2002.",
       "author": "Vanderbilt Communications and Marketing",
       "posted_at": "2026-06-18T21:22:55Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13327,7 +13443,7 @@
       "excerpt": "The western end of Garland Avenue will close from Monday, June 22, through Monday, Nov. 9, as crews install new thermal, storm, sanitary, electrical and telecommunications utilities.",
       "author": "Communications and Marketing",
       "posted_at": "2026-06-17T16:47:08Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13350,7 +13466,7 @@
       "excerpt": "A new exhibit at the Jean and Alexander Heard Libraries celebrates America\u2019s semiquincentennial\u2014the 250th anniversary of the signing of the Declaration of Independence\u2014by exploring the United States\u2019 formative years. 'Forging a Nation' will be on view through December 2026.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-17T15:49:03Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13373,7 +13489,7 @@
       "excerpt": "The collaboration reflects a shared commitment to advancing respectful, community-engaged research and supporting Indigenous knowledge preservation.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-17T15:26:12Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13396,7 +13512,7 @@
       "excerpt": "As a middle school math teacher on Chicago\u2019s South Side, Chezare A. Warren, now associate professor of leadership, policy and organizations at Peabody College and principal investigator of The Possibilities Project, noticed something interesting.",
       "author": "Porsha Thomas",
       "posted_at": "2026-06-17T14:00:23Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -13419,7 +13535,7 @@
       "excerpt": "In Vanderbilt\u2019s Magnolia Makerspace on a breezy April morning, the school year was winding down for Roberts Academy for Dyslexia fourth and fifth graders. It was a time of year when young learners might be daydreaming about summer vacations and pool days. But that Tuesday, all attention was on the lesson at hand: a boat [&#8230;]",
       "author": "Jennifer Kiilerich-Hansen",
       "posted_at": "2026-06-17T12:00:34Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -14161,7 +14277,7 @@
       "excerpt": "Ellis Island Honors Society Chairman Nasser J. Kazeminy awarded Billy Hudson, director of the Vanderbilt Center for Matrix Biology and the Elliott V. Newman Professor of Medicine, with a 2026 Ellis Island Medal of Honor on May 16 at a black-tie gala. The Ellis Island Medals of Honor rank among the nation\u2019s most renowned awards, officially recognized by the U.S. Senate and House of Representatives, with each year\u2019s recipients listed in the Congressional Record.",
       "author": "Reagan Villet",
       "posted_at": "2026-05-22T19:36:42Z",
-      "fetched_at": "2026-06-30T18:21:19.632895Z",
+      "fetched_at": "2026-06-30T18:36:19.282988Z",
       "score": 0.15,
       "raw_score": 0.15,
       "components": {
@@ -14733,47 +14849,47 @@
   ],
   "collector_status": {
     "vu_news_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 168.0
     },
     "vu_news": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "computing_vanderbilt": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 31,
       "expected_max_silence_hours": 168.0
     },
     "google_news_amplify": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 7,
       "expected_max_silence_hours": 336.0
     },
     "google_news_vanderbilt_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -14781,127 +14897,127 @@
       "expected_max_silence_hours": 168.0
     },
     "google_news_college_of_connected_computing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 31,
       "expected_max_silence_hours": 168.0
     },
     "google_news_computing_for_all": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_data_science_institute": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 336.0
     },
     "google_news_matthew_johnson_roberson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 17,
       "expected_max_silence_hours": 336.0
     },
     "google_news_jules_white": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 336.0
     },
     "google_news_padma_raghavan": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 14,
       "expected_max_silence_hours": 336.0
     },
     "google_news_jesse_spencer_smith": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_abhishek_dubey": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_robert_bodenheimer": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 5,
       "expected_max_silence_hours": 336.0
     },
     "google_news_taylor_johnson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 31,
       "expected_max_silence_hours": 336.0
     },
     "google_news_gautam_biswas": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 13,
       "expected_max_silence_hours": 336.0
     },
     "google_news_tyler_derr": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_bryan_ward": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 6,
+      "posts_fetched": 5,
       "expected_max_silence_hours": 168.0
     },
     "bing_news_amplify": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_vanderbilt_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -14909,15 +15025,15 @@
       "expected_max_silence_hours": 336.0
     },
     "bing_news_college_of_connected_computing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:26.881723Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:26.446743Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "bing_news_matthew_johnson_roberson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -14925,7 +15041,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_amplify_genai": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -14933,39 +15049,39 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_connected_computing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 3,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_matthew_johnson_roberson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "google_alerts_college_of_connected_computing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:27.786025Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.199329Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -14973,7 +15089,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_amplify_genai_innovation_center": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -14981,31 +15097,31 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_computing_for_all": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:27.971647Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.468600Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_data_science_institute": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.068916Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.529613Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_jules_white": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.147488Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.602882Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_padma_raghavan": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15013,7 +15129,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_jesse_spencer_smith": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15021,31 +15137,31 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_abhishek_dubey": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.404484Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.800531Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_taylor_johnson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.485079Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.866277Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_julie_johnson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.548998Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:27.925497Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_robert_bodenheimer": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15053,23 +15169,23 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_janos_sztipanovits": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.772451Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:28.070096Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_bennett_landman": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.853993Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:28.129698Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_maithilee_kunda": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15077,23 +15193,23 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_xenofon_koutsoukos": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:28.972209Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:28.269173Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_gautam_biswas": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:06:29.057382Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:21:28.361436Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_genai_minor": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15101,7 +15217,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_ds_minor": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15109,15 +15225,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_amplify_genai": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_amplify_innovation_center": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15125,47 +15241,47 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_college_of_connected_computing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 19,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_connected_computing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 50,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_vanderbilt_ccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt_and_cc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 19,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_matthew_johnson_roberson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 25,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_data_science_institute": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15173,23 +15289,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jesse_spencer_smith": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jules_white": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 32,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_padma_raghavan": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15197,7 +15313,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_abhishek_dubey": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15205,7 +15321,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_robert_bodenheimer": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15213,23 +15329,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_taylor_johnson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_julie_johnson": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_janos_sztipanovits": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15237,15 +15353,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_bennett_landman": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_maithilee_kunda": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15253,7 +15369,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_xenofon_koutsoukos": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15261,15 +15377,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_gautam_biswas": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_genai_minor": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15277,7 +15393,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_ds_minor": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15285,15 +15401,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
-      "last_success_with_results": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
+      "last_success_with_results": "2026-06-30T18:36:19.282988Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 82,
+      "posts_fetched": 78,
       "expected_max_silence_hours": 24.0
     },
     "crawler_vu_engineering_news": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15301,7 +15417,7 @@
       "expected_max_silence_hours": 168.0
     },
     "crawler_vu_dsi": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15309,7 +15425,7 @@
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_computing_pages": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15317,7 +15433,7 @@
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_isis": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T18:07:00.527484Z",
       "ok": true,
       "error": "",
@@ -15325,7 +15441,7 @@
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_news_tags": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15333,7 +15449,7 @@
       "expected_max_silence_hours": 72.0
     },
     "crawler_vu_engineering_faculty": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15341,7 +15457,7 @@
       "expected_max_silence_hours": 720.0
     },
     "crawler_mit_schwarzman": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T16:21:40.710440Z",
       "ok": true,
       "error": "",
@@ -15349,7 +15465,7 @@
       "expected_max_silence_hours": 168.0
     },
     "crawler_stanford_hai": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15357,7 +15473,7 @@
       "expected_max_silence_hours": 168.0
     },
     "crawler_cmu_scs": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T16:23:28.911667Z",
       "ok": true,
       "error": "",
@@ -15365,7 +15481,7 @@
       "expected_max_silence_hours": 168.0
     },
     "ig_hashtag_vanderbiltccc": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15373,7 +15489,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_computingforall": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15381,7 +15497,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_amplifygenai": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": false,
       "error": "hashtag_search_failed: meta_error code=24 subcode=2207024: The requested resource does not exist",
@@ -15389,7 +15505,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_vanderbiltcs": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15397,7 +15513,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_vanderbiltds": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15405,15 +15521,15 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_vanderbilt": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": false,
-      "error": "recent_media_failed: ReadTimeout: The read operation timed out",
+      "error": "recent_media_failed: meta_error code=1 subcode=None: Please reduce the amount of data you're asking for, then retry your request",
       "posts_fetched": 0,
       "expected_max_silence_hours": 24.0
     },
     "ig_hashtag_connectedcomputing": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15421,7 +15537,7 @@
       "expected_max_silence_hours": 336.0
     },
     "linkedin_vanderbilt_department_computer_science": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T18:08:43.892883Z",
       "ok": true,
       "error": "",
@@ -15429,7 +15545,7 @@
       "expected_max_silence_hours": 168.0
     },
     "linkedin_isis": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T18:08:44.765971Z",
       "ok": true,
       "error": "",
@@ -15437,7 +15553,7 @@
       "expected_max_silence_hours": 168.0
     },
     "linkedin_agi_center": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T18:08:44.784500Z",
       "ok": true,
       "error": "",
@@ -15445,7 +15561,7 @@
       "expected_max_silence_hours": 168.0
     },
     "linkedin_vanderbilt_engineering": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": "2026-06-30T18:08:44.804012Z",
       "ok": true,
       "error": "",
@@ -15453,7 +15569,7 @@
       "expected_max_silence_hours": 336.0
     },
     "linkedin_vanderbilt_university": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15461,7 +15577,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_linkedin_vanderbilt_cs": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15469,7 +15585,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_linkedin_isis": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15477,7 +15593,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_linkedin_agi_center": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15485,7 +15601,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_linkedin_vanderbilt_engineering": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15493,7 +15609,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_linkedin_vanderbilt_university": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15501,7 +15617,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_linkedin_vanderbilt_cs": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15509,7 +15625,7 @@
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_linkedin_isis": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15517,7 +15633,7 @@
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_linkedin_agi_center": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15525,7 +15641,7 @@
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_linkedin_vanderbilt_engineering": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15533,7 +15649,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_linkedin_vanderbilt_university": {
-      "last_run": "2026-06-30T18:21:19.632895Z",
+      "last_run": "2026-06-30T18:36:19.282988Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
