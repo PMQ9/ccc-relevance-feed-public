@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-10T16:51:18.952597Z",
+  "generated_at": "2026-07-10T17:06:19.850549Z",
   "scoring_version": "1.4",
   "posts": [
     {
@@ -14,7 +14,46 @@
       "excerpt": "College of Connected Computing , Vanderbilt University, Nashville, TN, USA. Matthew Johnson-Roberson. Department of Physics, ETH Zurich, Zurich&nbsp;...",
       "author": "",
       "posted_at": "2026-07-10T09:22:06Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
+      "score": 1.0,
+      "raw_score": 1.25,
+      "components": {
+        "entity_score": 1.1,
+        "source_bonus": 0.0,
+        "recency_bonus": 0.05,
+        "cooccurrence_bonus": 0.1
+      },
+      "matched_entities": [
+        {
+          "entity": "College of Connected Computing",
+          "weight": 0.5,
+          "kind": "org"
+        },
+        {
+          "entity": "Matthew Johnson-Roberson",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        },
+        {
+          "entity": "Johnson-Roberson",
+          "weight": 0.3,
+          "kind": "person_or_center"
+        }
+      ],
+      "scoring_version": "1.4"
+    },
+    {
+      "id": "451b59e6c6c612b9",
+      "source": "google_alerts_college_of_connected_computing",
+      "source_tier": 0,
+      "platform": "web",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41550-026-02910-w&ct=ga&cd=CAIyHDExZmQwNTYyYmRlZTk1OWY6Y29tOmVuOlVTOlI&usg=AOvVaw0qDhKKLCB1OnyugQkxWQOB",
+      "canonical_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.nature.com/articles/s41550-026-02910-w&ct=ga&cd=CAIyHDExZmQwNTYyYmRlZTk1OWY6Y29tOmVuOlVTOlI&usg=AOvVaw0qDhKKLCB1OnyugQkxWQOB",
+      "title": "The multimessenger Universe as a training ground for frontier AI | Nature Astronomy",
+      "excerpt": "College of Connected Computing , Vanderbilt University, Nashville, TN, USA. Matthew Johnson-Roberson. Department of Physics, ETH Zurich, Zurich&nbsp;...",
+      "author": "",
+      "posted_at": "2026-07-10T09:22:06Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 1.0,
       "raw_score": 1.25,
       "components": {
@@ -53,7 +92,7 @@
       "excerpt": "Yu Huang, an assistant professor of Computer Science at Vanderbilt University&#8217;s College of Connected Computing, received the NSF CAREER Award in May 2026 for her research, &#8220;Enabling Human-Guided AI for Code.&#8221; The award is one of the National Science Foundation&#8217;s most prestigious recognitions for early-career faculty, granted to researchers with the potential to advance their [&#8230;]",
       "author": "moakc",
       "posted_at": "2026-07-07T03:04:16Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 1.0,
       "raw_score": 1.25,
       "components": {
@@ -131,7 +170,7 @@
       "excerpt": "Andrew Schwartz, Co-Senior Author and Associate Professor of Computer Science and Psychology at Vanderbilt University\u2019s College of Connected Computing , says: \u201cLanguage models are now ubiquitous behind programs like ChatGPT and Claude, but they...",
       "author": "",
       "posted_at": "2026-06-25T01:22:13Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 1.0,
       "raw_score": 1.1,
       "components": {
@@ -297,7 +336,7 @@
       "excerpt": "&gt;Matthew Johnson-Roberson (Vanderbilt University) - The founding dean of Vanderbilt\u2019s College of Connected Computing , says robotics is still missing something fundamental.Sergey Levine (Physical Intelligence) - The buzzy physical AI startup is...",
       "author": "",
       "posted_at": "2026-05-28T15:16:59Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 1.0,
       "raw_score": 1.25,
       "components": {
@@ -419,7 +458,7 @@
       "excerpt": "...founding dean of Vanderbilt\u2019s College of Connected Computing , about why physical AI may not follow the same playbook as... Finally, Matthew reflects on building Vanderbilt\u2019s new College of Connected Computing , why higher ed can take on 30- and...",
       "author": "",
       "posted_at": "2026-05-20T17:41:51Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 1.0,
       "raw_score": 1.25,
       "components": {
@@ -1172,7 +1211,7 @@
       "excerpt": "...psychology at Vanderbilt University's College of Connected Computing .Different prompts can make the personality... Andrew Schwartz is at Vanderbilt University's College of Connected Computing , alongside Adithya V. Ganesan, Swanie Juhng...",
       "author": "",
       "posted_at": "2026-06-08T08:50:32Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.95,
       "raw_score": 0.95,
       "components": {
@@ -1206,7 +1245,7 @@
       "excerpt": "We had a great time connecting with so many students, staff, and faculty yesterday at the Vanderbilt University College of Connected Computing Pin Drop Event! Jagadeesh Reddy Vanga and Maximillian Moundas were able to share about the impact of Amplify and Majk, and to highlight the dynamic work we're doing. A huge thank you to the CCC for creating such a vibrant and celebratory space! We're grateful for all the wonderful people we met and look forward to continuing these conversations.",
       "author": "Amplify GenAI Innovation (AGI) Center, Vanderbilt University",
       "posted_at": "2026-04-22T15:29:33.325000Z",
-      "fetched_at": "2026-07-10T15:51:19.965592Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.85,
       "raw_score": 0.85,
       "components": {
@@ -1396,7 +1435,7 @@
       "excerpt": "On June 3, Vanderbilt University\u2019s College of Connected Computing and Blair School of Music hosted an inspiring gathering at Vanderbilt University\u2013New York City, bringing together alumni and friends to explore the future of music in the digital age. The evening highlighted the intersection of the arts and technology, underscoring Vanderbilt\u2019s commitment to fostering and amplifying radical collaboration and innovation across disciplines.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-23T14:00:08Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.8,
       "raw_score": 0.8,
       "components": {
@@ -1454,7 +1493,7 @@
       "excerpt": "Vanderbilt University\u2019s College of Connected Computing is launching a new Master of Science in Artificial Intelligence; a fully online degree built for working professionals across every field who want to influence how artificial intelligence is used in their organizations.",
       "author": "Reagan Villet",
       "posted_at": "2026-06-22T16:25:48Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.8,
       "raw_score": 0.8,
       "components": {
@@ -1585,7 +1624,7 @@
       "excerpt": "This was originally published in the Automated with Brian Heater podcast. Automated is A3\u2019s weekly conversation with the people shaping the future of automation. &#160; &#160; Physical AI is moving fast. But Matthew Johnson-Roberson says robotics is still missing something fundamental. The field has data, models, and momentum, but it still does not have the [&#8230;]",
       "author": "Natalie Arana",
       "posted_at": "2026-05-26T17:49:01Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.8,
       "raw_score": 0.8,
       "components": {
@@ -1872,7 +1911,7 @@
       "excerpt": "...Nashville, TN, USADaniel Moyer College of Connected Computing , Vanderbilt University, Nashville, TN, USAMatthew...",
       "author": "",
       "posted_at": "2026-07-10T10:44:24Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -1901,7 +1940,7 @@
       "excerpt": "We recently completed a research engagement with a professional certification education organization \u2014 and the findings were eye-opening. Their challenge: a strong curriculum, but delivery methods that hadn't kept pace. Online learners were underperforming compared to in-person cohorts, personalized feedback was scarce, and the gap between what was being taught and how it was being experienced was growing. Led by Maximillian Moundas and Allen Karns, our team analyzed AI applications across the entire educational lifecycle \u2014 from curriculum design and content development, to learner engagement ",
       "author": "Amplify GenAI Innovation (AGI) Center, Vanderbilt University",
       "posted_at": "2026-07-07T21:08:00.313000Z",
-      "fetched_at": "2026-07-10T15:51:19.965592Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2027,7 +2066,7 @@
       "excerpt": "...of Medicine Basic Sciences, while enabling a stronger connection with the College of Connected Computing . Offering two levels below grade and a mechanical penthouse, the 10-story development aims to catalyze radical collaboration that will...",
       "author": "",
       "posted_at": "2026-06-29T05:03:30Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2201,7 +2240,7 @@
       "excerpt": "...stronger collaborative environment for computational partnerships with the College of Connected Computing , accelerating data-driven discovery across the university.Flexible research spaces will adapt to evolving scientific needs, ensuring that...",
       "author": "",
       "posted_at": "2026-06-17T15:36:18Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2259,7 +2298,7 @@
       "excerpt": "...StatementOur mission is to empower faculty, staff, and students in the College of Connected Computing at Vanderbilt University to pursue groundbreaking research. We provide expert support across the full research life cycle, from proposal...",
       "author": "",
       "posted_at": "2026-06-03T22:13:38Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2346,7 +2385,7 @@
       "excerpt": "Frist is also on the advisory board of The Precisionists Inc., the Dean's Advisory Council for the Vanderbilt University College of Connected Computing , and the advisory board for the Frist Center for Autism and Innovation at Vanderbilt...",
       "author": "",
       "posted_at": "2026-05-27T16:06:53Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.65,
       "raw_score": 0.65,
       "components": {
@@ -2501,7 +2540,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-07-07T10:19:57Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2598,7 +2637,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-29T09:00:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2632,7 +2671,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-29T09:00:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2962,7 +3001,7 @@
       "excerpt": "...cybersecurity programs in 2025. Vanderbilt launched a whole new college called the College of Connected Computing , dedicated to AI. Tennessee Tech University is rolling out a bachelor\u2019s degree in artificial intelligence this fall.The AI...",
       "author": "",
       "posted_at": "2026-05-31T10:04:59Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -2991,7 +3030,7 @@
       "excerpt": "...six-week program called Prompt Engineering for ChatGPT taught by Dr. Jules White , a computer science professor at Vanderbilt University.Dr. White\u2019s course covers the core frameworks of effective prompting, including persona prompts, where you...",
       "author": "",
       "posted_at": "2026-05-27T12:56:26Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -3025,7 +3064,7 @@
       "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
       "author": "",
       "posted_at": "2026-05-18T13:17:56Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -3059,7 +3098,7 @@
       "excerpt": "...it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is ... it actually needs,\u201d Jules White , Ph.D., professor of computer science at Vanderbilt University. \u201cThat second approach is...",
       "author": "",
       "posted_at": "2026-05-18T11:50:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.6,
       "raw_score": 0.6,
       "components": {
@@ -3248,7 +3287,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-10T14:21:36Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3277,7 +3316,7 @@
       "excerpt": "...authority, enter the register and identify or authenticate customers before providing connected computing capacity. Colocation where the customer owns and controls the server may not map identically to managed hosting. The service description and...",
       "author": "",
       "posted_at": "2026-07-10T11:43:40Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3306,7 +3345,7 @@
       "excerpt": "...stream via the BBC iPlayer platform or through the BBC Sport website on any connected computing interface. For smart TV owners, downloading the official broadcasting application directly onto your television operating system yields smooth...",
       "author": "",
       "posted_at": "2026-07-10T08:29:06Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3335,7 +3374,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-10T00:45:35Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3364,7 +3403,7 @@
       "excerpt": "With the launch of the TC605-EX, Winmate continues to expand its rugged mobility portfolio for industries that require durable, safe, and connected computing solutions. The new handheld is designed to support frontline workers with reliable...",
       "author": "",
       "posted_at": "2026-07-09T22:08:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3393,7 +3432,7 @@
       "excerpt": "With the launch of the TC605-EX, Winmate continues to expand its rugged mobility portfolio for industries that require durable, safe, and connected computing solutions. The new handheld is designed to support frontline workers with reliable...",
       "author": "",
       "posted_at": "2026-07-09T19:15:49Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3422,7 +3461,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-09T16:26:41Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3451,7 +3490,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-09T14:22:53Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3480,7 +3519,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-09T14:15:03Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3509,7 +3548,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-08T22:01:58Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3538,7 +3577,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-08T21:18:30Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3567,7 +3606,7 @@
       "excerpt": "That search ultimately led him to Vanderbilt and Bennett Landman's lab, where he recently completed a Ph.D. in computer science focused on medical&nbsp;...",
       "author": "",
       "posted_at": "2026-07-08T17:04:43Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3601,7 +3640,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-08T13:48:41Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3630,7 +3669,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-08T03:43:54Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3659,7 +3698,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-07T18:27:23Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3717,7 +3756,7 @@
       "excerpt": "...Elite platform through multiple OEM Copilot+ PC launches, supporting advanced connected computing applications. Exclusive Sections of the Power Line Communication Market Report (The USPs):SMART GRID MODERNIZATION &amp; DIGITAL UTILITY INFRASTRUCTURE...",
       "author": "",
       "posted_at": "2026-07-07T07:30:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3746,7 +3785,7 @@
       "excerpt": "...Elite platform through multiple OEM Copilot+ PC launches, supporting advanced connected computing applications. Exclusive Sections of the Power Line Communication Market Report (The USPs):SMART GRID MODERNIZATION &amp; DIGITAL UTILITY INFRASTRUCTURE...",
       "author": "",
       "posted_at": "2026-07-07T07:30:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3775,7 +3814,7 @@
       "excerpt": "...Elite platform through multiple OEM Copilot+ PC launches, supporting advanced connected computing applications. Exclusive Sections of the Power Line Communication Market Report (The USPs):SMART GRID MODERNIZATION &amp; DIGITAL UTILITY INFRASTRUCTURE...",
       "author": "",
       "posted_at": "2026-07-07T07:13:48Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3804,7 +3843,7 @@
       "excerpt": "...Elite platform through multiple OEM Copilot+ PC launches, supporting advanced connected computing applications. Exclusive Sections of the Power Line Communication Market Report (The USPs):SMART GRID MODERNIZATION &amp; DIGITAL UTILITY INFRASTRUCTURE...",
       "author": "",
       "posted_at": "2026-07-07T07:00:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3833,7 +3872,7 @@
       "excerpt": "...the rapid advancement of artificial intelligence, sensing technologies, and connected computing , intelligent systems are increasingly expected to learn from data generated across everyday devices, autonomous platforms, healthcare systems, industrial...",
       "author": "",
       "posted_at": "2026-07-06T22:04:37Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3862,7 +3901,7 @@
       "excerpt": "The CLA is not just being sold as an electric or hybrid-era Mercedes; it is being sold as a connected computing environment that happens to include seats and steering. This is where Microsoft benefits from the car industry\u2019s software pivot...",
       "author": "",
       "posted_at": "2026-07-06T21:45:12Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3891,7 +3930,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-06T18:43:59Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3949,7 +3988,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-06T13:29:02Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -3978,7 +4017,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-06T10:28:36Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4007,7 +4046,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-06T05:14:59Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4036,7 +4075,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-06T02:19:14Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4065,7 +4104,7 @@
       "excerpt": "...devices that are essentially internet- connected computing devices located at or along the path to the network edge. They are ... devices that are essentially internet- connected computing devices located at or along the path to the network edge. They are...",
       "author": "",
       "posted_at": "2026-07-06T01:40:26Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4123,7 +4162,7 @@
       "excerpt": "...concerning power life , the device offers a tangible glimpse into what the future of connected computing might RayNeo Air 4 Pro become. This a exciting product that certainly necessitates your consideration .OnlineDaraz Customer Review: RayNeo Air...",
       "author": "",
       "posted_at": "2026-07-03T13:03:30Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4152,7 +4191,7 @@
       "excerpt": "...concerning battery time, the device offers a tangible glimpse into what the future of connected computing might become. The a exciting offering that potentially deserves your notice.OnlineDaraz Customer Review: RayNeo Air 4 Pro \u2013 First...",
       "author": "",
       "posted_at": "2026-07-03T11:33:13Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4181,7 +4220,7 @@
       "excerpt": "...operational duration , the Air 4 Pro offers a real glimpse into what the future of connected computing might hold . It's a exciting product that certainly deserves your attention .OnlineDaraz Customer Review: RayNeo Air 4 Pro \u2013 First...",
       "author": "",
       "posted_at": "2026-07-03T10:29:50Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4210,7 +4249,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-03T09:56:26Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4239,7 +4278,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-03T07:11:33Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4268,7 +4307,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-03T05:24:48Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4297,7 +4336,7 @@
       "excerpt": "Qualcomm Incorporated (NASDAQ: QCOM), a connected computing leader at the center of the AI era, outlined the acceleration of its diversification strategy and unveiled its comprehensive strategy for the data...",
       "author": "",
       "posted_at": "2026-07-02T15:53:35Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4326,7 +4365,7 @@
       "excerpt": "Qualcomm Incorporated (NASDAQ: QCOM), a connected computing leader at the center of the AI era, outlined the acceleration of its diversification strategy and unveiled its comprehensive strategy for the data...",
       "author": "",
       "posted_at": "2026-07-02T15:36:24Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4355,7 +4394,7 @@
       "excerpt": "Qualcomm Incorporated (NASDAQ: QCOM), a connected computing leader at the center of the AI era, outlined the acceleration of its diversification strategy and unveiled its comprehensive strategy for the data...",
       "author": "",
       "posted_at": "2026-07-02T15:36:21Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4384,7 +4423,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-02T03:46:15Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4413,7 +4452,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-01T21:27:11Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4442,7 +4481,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-01T21:07:34Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4500,7 +4539,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-01T19:22:10Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4558,7 +4597,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-01T17:03:24Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4587,7 +4626,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-01T16:59:41Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4616,7 +4655,7 @@
       "excerpt": "\u201dView this Stocktwits postAnother user stated that the broader takeaway is that cars are evolving into connected computing platforms, making memory a more strategic component.View this Stocktwits postGM shares have fallen roughly 5% so far...",
       "author": "",
       "posted_at": "2026-07-01T15:42:55Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4674,7 +4713,7 @@
       "excerpt": "\u201dAnother user stated that the broader takeaway is that cars are evolving into connected computing platforms, making memory a more strategic component.GM shares have fallen roughly 5% so far this year but have risen more than 48% over the past 12...",
       "author": "",
       "posted_at": "2026-07-01T14:25:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -4703,7 +4742,7 @@
       "excerpt": "...approximately US$7 billion, adding connected computing and human-machine interface capabilities that it says are central to ... defines as Physical AI: power, sensing, connected computing and control; Autonomous driving is cited as the primary target...",
       "author": "",
       "posted_at": "2026-07-01T13:46:20Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -5689,7 +5728,7 @@
       "excerpt": "...and supercharged it.&quot;He's especially excited about working with the new College of Connected Computing and its potential for collaboration with the School of Medicine.&quot;I don't think anybody's ever seen anything like this, where you have a tech...",
       "author": "",
       "posted_at": "2026-06-30T19:34:03Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6617,7 +6656,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-28T09:00:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6685,7 +6724,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T12:06:43Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6719,7 +6758,7 @@
       "excerpt": "Many users are providing chatbots with &quot;way too little and then expecting it to read their minds,&quot; said Jules White , the director of Vanderbilt University\u00b4s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T10:25:52Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6753,7 +6792,7 @@
       "excerpt": "...advice because they provide insufficient context to the AI, according to Jules White , director of Vanderbilt University\u2019s initiative on the future of learning and generative AI. To move beyond surface-level responses, White suggests using an...",
       "author": "",
       "posted_at": "2026-06-27T10:19:10Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6787,7 +6826,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T10:14:15Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6821,7 +6860,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T10:09:33Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6855,7 +6894,7 @@
       "excerpt": "Moreover, the effectiveness of chatbot advice often hinges on user input. Jules White , director of Vanderbilt University\u2019s generative AI initiative, notes that vague questions lead to generic responses. Users can enhance their interactions by...",
       "author": "",
       "posted_at": "2026-06-27T09:49:38Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6889,7 +6928,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:41:08Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6923,7 +6962,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:21:14Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6957,7 +6996,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T09:21:09Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -6991,7 +7030,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:03:12Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7025,7 +7064,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:02:37Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7059,7 +7098,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:01:15Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7093,7 +7132,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:01:15Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7127,7 +7166,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:01:15Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7161,7 +7200,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:00:23Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7195,7 +7234,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-27T09:00:08Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7229,7 +7268,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:00:08Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7263,7 +7302,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-27T09:00:08Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7297,7 +7336,7 @@
       "excerpt": "...excessively small and past expecting it to publication their minds,\u201d said Jules White , the head of Vanderbilt University\u2019s inaugural connected the early of learning and generative AI.The value of the proposal could alteration importantly based...",
       "author": "",
       "posted_at": "2026-06-27T05:10:28Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7534,7 +7573,7 @@
       "excerpt": "Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The quality of the advice can...",
       "author": "",
       "posted_at": "2026-06-26T14:34:31Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7568,7 +7607,7 @@
       "excerpt": "Ask the right questionsMany users are providing chatbots with &quot;way too little and then expecting it to read their minds,&quot; said Jules White , the director of Vanderbilt University's initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-26T14:34:31Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -7602,7 +7641,7 @@
       "excerpt": "Ask the right questions Many users are providing chatbots with \u201cway too little and then expecting it to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and generative AI.The...",
       "author": "",
       "posted_at": "2026-06-26T14:34:31Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -8477,7 +8516,7 @@
       "excerpt": "...engineering School of Engineering and College of Connected Computing Chang's research focuses on the development of ... pathology, microbiology and immunology College of Connected Computing and School of MedicineHuo's work lies at the...",
       "author": "",
       "posted_at": "2026-06-24T13:55:10Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -10739,7 +10778,7 @@
       "excerpt": "In December, it partnered with the EPB to launch the Institute for Quantum Innovation. And in 2024, it launched the College of Connected Computing to focus on computational thinking, AI, and data science.\u201cLast week, Middle Tennessee State...",
       "author": "",
       "posted_at": "2026-05-29T20:23:33Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -10913,7 +10952,7 @@
       "excerpt": "Frist is also on the advisory board of The Precisionists Inc., the Dean\u2019s Advisory Council for the Vanderbilt University College of Connected Computing , and the advisory board for the Frist Center for Autism and Innovation at Vanderbilt...",
       "author": "",
       "posted_at": "2026-05-27T15:58:04Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.55,
       "raw_score": 0.55,
       "components": {
@@ -11658,7 +11697,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-05T00:50:05Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -11687,7 +11726,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-04T23:37:26Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -11716,7 +11755,7 @@
       "excerpt": "...on the server. As a framework it is one solution to the needs of Occasionally connected computing or OCC. A major challenge for HTTP as a stateless protocol has been asynchronous tasks.The AJAX pattern using XMLHttpRequest was first introduced by...",
       "author": "",
       "posted_at": "2026-07-04T05:34:51Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -11745,7 +11784,7 @@
       "excerpt": "...innovations advancing AI, cloud, edge and connected computing .July 1, 2026 Top Arm-based innovations advancing AI ... innovations advancing AI, cloud, edge and connected computing .This month\u2019s \u201cBeyond the Newsroom\u201d highlights the latest...",
       "author": "",
       "posted_at": "2026-07-01T13:00:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.5,
       "raw_score": 0.5,
       "components": {
@@ -12543,7 +12582,7 @@
       "excerpt": "The Briefing Pattern \u2014 from the teaching of Dr. Jules White , Vanderbilt University.)Try it: save the brief in a note and...",
       "author": "",
       "posted_at": "2026-07-10T10:12:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -12572,7 +12611,7 @@
       "excerpt": "Take-off Tuesday | Amplify Basics \ud83d\udcc5 Thursday, July 21 | 12:00 p.m. Vanderbilt staff and faculty \u2014 we'd love to see you at People, Culture, and Belonging's next Take-off Tuesday session! Our very own Maximillian Moundas is leading a hands-on training on Amplify. Whether you're brand new to Amplify or looking to level up, this session will cover: \u2705 Core Amplify capabilities & the latest features \u2705 Key resources to support your journey \u2705 How to simplify building and deploying modern applications \u2705 A live demo showing how Amplify accelerates development from idea to production Don't miss it! Regis",
       "author": "Amplify GenAI Innovation (AGI) Center, Vanderbilt University",
       "posted_at": "2026-07-09T18:34:43.440000Z",
-      "fetched_at": "2026-07-10T15:51:19.965592Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -12601,7 +12640,7 @@
       "excerpt": "...the Prompt Pattern Catalog of Dr. Jules White , Vanderbilt University.)Try it: add \u201cand rewrite my one action item as a...",
       "author": "",
       "posted_at": "2026-07-08T10:13:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -12688,7 +12727,7 @@
       "excerpt": "We're excited to announce that our Chief AI and Technology Officer, Allen Karns, has joined the Chief AI Officer (CAIO) Network, a peer community of senior AI leaders from across higher education, convened in partnership with Southern New Hampshire University and the Axim Collaborative. Launched with its inaugural, in-person meeting in April 2026, the network brings together AI leaders from over 25 institutions including Vanderbilt University, Yale University, Stanford University, Harvard University, Arizona State University, Morgan State University, Miami Dade College, and Finger Lakes Commun",
       "author": "Amplify GenAI Innovation (AGI) Center, Vanderbilt University",
       "posted_at": "2026-06-22T19:32:59.233000Z",
-      "fetched_at": "2026-07-10T15:51:19.965592Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -12717,7 +12756,7 @@
       "excerpt": "...eligibility at Clemson.Though Mia Moore and Taylor Johnson -Matthews, two women\u2019 s basketball players at Clemson, had ... former Oregon wideout Malik Benson and Vanderbilt quarterback Diego Pavia to make the decision.\u201cThe NCAA granted the...",
       "author": "",
       "posted_at": "2026-06-18T17:46:09Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -12838,7 +12877,7 @@
       "excerpt": "Artificial IntelligenceI am even less familiar with AI. Last year on Coursera, I followed a series of courses by Jules White of Vanderbilt University. The coursework used OpenAI\u2019s ChatGPT to cover the fundamentals of AI\u2019s working plus prompt...",
       "author": "",
       "posted_at": "2026-06-03T13:01:02Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -12964,7 +13003,7 @@
       "excerpt": "In a groundbreaking study published recently in the journal Nature, researchers at Vanderbilt University and Vanderbilt Health have created the first growth charts for white matter in the brain over a human lifetime. The work brings together nearly two decades of Vanderbilt research collaborations, the university\u2019s extensive MRI data collections, and an advanced AI-enabled computing platform.",
       "author": "Reagan Villet",
       "posted_at": "2026-05-27T18:53:47Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -13897,7 +13936,7 @@
       "excerpt": "...Langford Auditorium event. &quot;From our College of Connected Computing to our planned innovation district here in Nashville, to... Sarah Beck, an associate project manager with the College of Connected Computing , received the award.In an environment...",
       "author": "",
       "posted_at": "2026-05-14T19:36:54Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.45,
       "raw_score": 0.45,
       "components": {
@@ -14158,7 +14197,7 @@
       "excerpt": "Persona \u2014 adapted from the Prompt Pattern Catalog of Dr. Jules White , Vanderbilt University.)Try it: keep the audience...",
       "author": "",
       "posted_at": "2026-07-05T10:04:00Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.4,
       "raw_score": 0.4,
       "components": {
@@ -14274,7 +14313,7 @@
       "excerpt": "...where the biggest failures start. Jules White . director of Vanderbilt University\u2019s initiative on the future of learning and ... advice Hinge Logan Ury Erika Ettin Vanderbilt Jules White Shumer Capital Matt Shumer Arizona State University Liesel Sharabi...",
       "author": "",
       "posted_at": "2026-06-27T09:51:18Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.4,
       "raw_score": 0.4,
       "components": {
@@ -14303,7 +14342,7 @@
       "excerpt": "...to read their minds,\u201d said Jules White , the director of Vanderbilt University\u2019s initiative on the future of learning and...",
       "author": "",
       "posted_at": "2026-06-27T09:24:48Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.4,
       "raw_score": 0.4,
       "components": {
@@ -14951,7 +14990,7 @@
       "excerpt": "To process complex data structures across these multi-core systems without blowing through power budgets, Padma Raghavan , who earned her Ph.D. at Penn State, developed scalable parallel algorithms for sparse matrices and matrix decomposition...",
       "author": "",
       "posted_at": "2026-07-06T02:59:58Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -14980,7 +15019,7 @@
       "excerpt": "What does it take to become a prompt engineer? Prompt engineering isn't only about knowing AI tools. It's also about applying your unique expertise and domain knowledge to get the most out of them. As AI continues to reshape every industry, the ability to communicate effectively with AI models is becoming one of the most valuable skills you can develop. U.S. News & World Report explores the growing field of prompt engineering \u2014 and our Executive Director, Jules White, provides his expertise on what it means to master this emerging skill \ud83d\udcc8 Read the full article to learn what the future of promp",
       "author": "Amplify GenAI Innovation (AGI) Center, Vanderbilt University",
       "posted_at": "2026-07-01T16:51:31.388000Z",
-      "fetched_at": "2026-07-10T15:51:19.965592Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -15038,7 +15077,7 @@
       "excerpt": "\ud83d\udccdGoing to the AWS Summit in DC this week? Be sure to stop by Allen Karns & Jason Bradley's session on Wednesday afternoon! Join them to hear more about our Staff Fellows program which has been a dynamic way for staff to learn about genAI and utilize it within their roles. We're looking forward to our Fall 2026 cohort. Sign ups coming soon... \ud83d\udc40",
       "author": "Amplify GenAI Innovation (AGI) Center, Vanderbilt University",
       "posted_at": "2026-06-29T18:31:54.355000Z",
-      "fetched_at": "2026-07-10T15:51:19.965592Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -15154,7 +15193,7 @@
       "excerpt": "...Shruti Jain, Clayton Cohn, Umesh Timalsina, Naveeduddin Mohammed, Jennifer Chiu, Gautam Biswas Poster Session 2 + Interactive Tech &amp; Demos Thursday, June 18, from 4:15\u20135:45 p.m.Democratizing Algebra: Advancing Conceptual Understanding Through...",
       "author": "",
       "posted_at": "2026-06-05T13:41:59Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -15212,7 +15251,7 @@
       "excerpt": "...individual images\u2014an unprecedented data set that has been a central focal point for Bennett Landman , a key contributor to the study whose work has helped standardize and align imaging data across multiple studies. &quot;What's exciting is that these data...",
       "author": "",
       "posted_at": "2026-05-28T17:34:08Z",
-      "fetched_at": "2026-07-10T16:51:18.952597Z",
+      "fetched_at": "2026-07-10T17:06:19.850549Z",
       "score": 0.35,
       "raw_score": 0.35,
       "components": {
@@ -15253,35 +15292,6 @@
       "matched_entities": [
         {
           "entity": "Gautam Biswas",
-          "weight": 0.3,
-          "kind": "person_or_program"
-        }
-      ],
-      "scoring_version": "1.4"
-    },
-    {
-      "id": "48b7520907e15668",
-      "source": "google_alerts_xenofon_koutsoukos",
-      "source_tier": 0,
-      "platform": "web",
-      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.darpa.mil/news/2026/smart-approach-securing-strategic-materials&ct=ga&cd=CAIyHDdkMDI2ZGVkODJjNDRmMDY6Y29tOmVuOlVTOlI&usg=AOvVaw2rKyN2qTd-rDp8VOg21u-d",
-      "canonical_url": "https://www.google.com/url?rct=j&sa=t&url=https://www.darpa.mil/news/2026/smart-approach-securing-strategic-materials&ct=ga&cd=CAIyHDdkMDI2ZGVkODJjNDRmMDY6Y29tOmVuOlVTOlI&usg=AOvVaw2rKyN2qTd-rDp8VOg21u-d",
-      "title": "A SMART approach to securing strategic materials - DARPA",
-      "excerpt": "Xenofon Koutsoukos , Stephen Kuhn, Michael Lack, John Main, Hamish Malin, Matthew Marge, Hunter Martin, Michael McDonald, Clark McGehee, Julian&nbsp;...",
-      "author": "",
-      "posted_at": "2026-05-20T03:12:00Z",
-      "fetched_at": "2026-05-21T03:23:11.868198Z",
-      "score": 0.35,
-      "raw_score": 0.35,
-      "components": {
-        "entity_score": 0.3,
-        "source_bonus": 0.0,
-        "recency_bonus": 0.0,
-        "cooccurrence_bonus": 0.0
-      },
-      "matched_entities": [
-        {
-          "entity": "Xenofon Koutsoukos",
           "weight": 0.3,
           "kind": "person_or_program"
         }
@@ -15343,47 +15353,47 @@
   ],
   "collector_status": {
     "vu_news_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 168.0
     },
     "vu_news": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "computing_vanderbilt": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 31,
       "expected_max_silence_hours": 168.0
     },
     "google_news_amplify": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 7,
       "expected_max_silence_hours": 336.0
     },
     "google_news_vanderbilt_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15391,127 +15401,127 @@
       "expected_max_silence_hours": 168.0
     },
     "google_news_college_of_connected_computing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 30,
       "expected_max_silence_hours": 168.0
     },
     "google_news_computing_for_all": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 9,
       "expected_max_silence_hours": 336.0
     },
     "google_news_data_science_institute": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 17,
       "expected_max_silence_hours": 336.0
     },
     "google_news_matthew_johnson_roberson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 18,
       "expected_max_silence_hours": 336.0
     },
     "google_news_jules_white": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 18,
       "expected_max_silence_hours": 336.0
     },
     "google_news_padma_raghavan": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 13,
       "expected_max_silence_hours": 336.0
     },
     "google_news_jesse_spencer_smith": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_abhishek_dubey": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_robert_bodenheimer": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 5,
       "expected_max_silence_hours": 336.0
     },
     "google_news_taylor_johnson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 25,
       "expected_max_silence_hours": 336.0
     },
     "google_news_gautam_biswas": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 12,
       "expected_max_silence_hours": 336.0
     },
     "google_news_tyler_derr": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 10,
       "expected_max_silence_hours": 336.0
     },
     "google_news_bryan_ward": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 5,
+      "posts_fetched": 3,
       "expected_max_silence_hours": 168.0
     },
     "bing_news_amplify": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "bing_news_vanderbilt_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15519,15 +15529,15 @@
       "expected_max_silence_hours": 336.0
     },
     "bing_news_college_of_connected_computing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:28.005535Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:26.897271Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "bing_news_matthew_johnson_roberson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15535,7 +15545,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_amplify_genai": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15543,39 +15553,39 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_connected_computing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_matthew_johnson_roberson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:28.646022Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:27.696645Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 20,
       "expected_max_silence_hours": 24.0
     },
     "google_alerts_college_of_connected_computing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:28.790782Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 0,
+      "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_vanderbilt_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15583,7 +15593,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_amplify_genai_innovation_center": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15591,31 +15601,31 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_computing_for_all": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:28.974988Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.077516Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_data_science_institute": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.052837Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.141560Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_jules_white": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.112111Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.208981Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_padma_raghavan": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15623,7 +15633,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_jesse_spencer_smith": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15631,31 +15641,31 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_abhishek_dubey": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.323033Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.427246Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_taylor_johnson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.396644Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.509608Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_julie_johnson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.458162Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.582104Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_robert_bodenheimer": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15663,23 +15673,23 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_janos_sztipanovits": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.607126Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.729525Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_bennett_landman": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_maithilee_kunda": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15687,23 +15697,23 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_xenofon_koutsoukos": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.857929Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.936088Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_gautam_biswas": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:36:29.925978Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:51:28.995641Z",
       "ok": true,
       "error": "",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_genai_minor": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15711,7 +15721,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_ds_minor": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15719,15 +15729,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_amplify_genai": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_amplify_innovation_center": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15735,47 +15745,47 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_college_of_connected_computing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 22,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_connected_computing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 50,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_vanderbilt_ccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt_and_cc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 22,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_matthew_johnson_roberson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 26,
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_data_science_institute": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15783,31 +15793,31 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jesse_spencer_smith": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_jules_white": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 36,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_padma_raghavan": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_abhishek_dubey": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15815,7 +15825,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_robert_bodenheimer": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15823,23 +15833,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_taylor_johnson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 2,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_julie_johnson": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_janos_sztipanovits": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15847,15 +15857,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_bennett_landman": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 3,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_maithilee_kunda": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15863,7 +15873,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_xenofon_koutsoukos": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15871,15 +15881,15 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_gautam_biswas": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 1,
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_genai_minor": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15887,7 +15897,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_ds_minor": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15895,23 +15905,23 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_vanderbilt": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
       "posts_fetched": 106,
       "expected_max_silence_hours": 24.0
     },
     "crawler_vu_engineering_news": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 4,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "crawler_vu_dsi": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15919,31 +15929,31 @@
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_computing_pages": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 20,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_isis": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T16:52:00.014038Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 49,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "crawler_vu_news_tags": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": null,
       "ok": true,
       "error": "",
-      "posts_fetched": 33,
+      "posts_fetched": 0,
       "expected_max_silence_hours": 72.0
     },
     "crawler_vu_engineering_faculty": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15951,7 +15961,7 @@
       "expected_max_silence_hours": 720.0
     },
     "crawler_mit_schwarzman": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": "2026-07-10T16:21:42.055267Z",
       "ok": true,
       "error": "",
@@ -15959,7 +15969,7 @@
       "expected_max_silence_hours": 168.0
     },
     "crawler_stanford_hai": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15967,7 +15977,7 @@
       "expected_max_silence_hours": 168.0
     },
     "crawler_cmu_scs": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": "2026-07-10T16:23:29.450670Z",
       "ok": true,
       "error": "",
@@ -15975,7 +15985,7 @@
       "expected_max_silence_hours": 168.0
     },
     "ig_hashtag_vanderbiltccc": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15983,7 +15993,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_computingforall": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -15991,7 +16001,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_amplifygenai": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": false,
       "error": "hashtag_search_failed: meta_error code=24 subcode=2207024: The requested resource does not exist",
@@ -15999,7 +16009,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_vanderbiltcs": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16007,7 +16017,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_vanderbiltds": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16015,7 +16025,7 @@
       "expected_max_silence_hours": 336.0
     },
     "ig_hashtag_vanderbilt": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": false,
       "error": "recent_media_failed: meta_error code=100 subcode=None: (#100) Please read documentation for supported fields.",
@@ -16023,7 +16033,7 @@
       "expected_max_silence_hours": 24.0
     },
     "ig_hashtag_connectedcomputing": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16031,47 +16041,47 @@
       "expected_max_silence_hours": 336.0
     },
     "linkedin_vanderbilt_department_computer_science": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": "2026-07-10T15:51:50.211260Z",
-      "ok": true,
-      "error": "",
+      "ok": false,
+      "error": "linkedin_block_cooldown",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "linkedin_isis": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": "2026-07-10T15:51:50.230547Z",
-      "ok": true,
-      "error": "",
+      "ok": false,
+      "error": "linkedin_block_cooldown",
       "posts_fetched": 0,
       "expected_max_silence_hours": 168.0
     },
     "linkedin_agi_center": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
-      "last_success_with_results": "2026-07-10T15:51:50.249879Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
+      "last_success_with_results": "2026-07-10T17:06:19.850549Z",
       "ok": true,
       "error": "",
-      "posts_fetched": 0,
+      "posts_fetched": 10,
       "expected_max_silence_hours": 168.0
     },
     "linkedin_vanderbilt_engineering": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": "2026-07-10T15:51:50.999769Z",
-      "ok": true,
-      "error": "",
+      "ok": false,
+      "error": "linkedin_block_cooldown",
       "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "linkedin_vanderbilt_university": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
-      "ok": true,
-      "error": "",
+      "ok": false,
+      "error": "linkedin_block_cooldown",
       "posts_fetched": 0,
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_linkedin_vanderbilt_cs": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16079,7 +16089,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_linkedin_isis": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16087,7 +16097,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_linkedin_agi_center": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16095,7 +16105,7 @@
       "expected_max_silence_hours": 168.0
     },
     "google_alerts_linkedin_vanderbilt_engineering": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16103,7 +16113,7 @@
       "expected_max_silence_hours": 336.0
     },
     "google_alerts_linkedin_vanderbilt_university": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16111,7 +16121,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_linkedin_vanderbilt_cs": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16119,7 +16129,7 @@
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_linkedin_isis": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16127,7 +16137,7 @@
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_linkedin_agi_center": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16135,7 +16145,7 @@
       "expected_max_silence_hours": 168.0
     },
     "talkwalker_linkedin_vanderbilt_engineering": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
@@ -16143,7 +16153,7 @@
       "expected_max_silence_hours": 336.0
     },
     "talkwalker_linkedin_vanderbilt_university": {
-      "last_run": "2026-07-10T16:51:18.952597Z",
+      "last_run": "2026-07-10T17:06:19.850549Z",
       "last_success_with_results": null,
       "ok": true,
       "error": "",
